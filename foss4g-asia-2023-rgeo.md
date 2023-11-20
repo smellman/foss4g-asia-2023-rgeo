@@ -12,6 +12,14 @@ Georepublic Japan
 
 ---
 
+# This presentation available at online.
+
+![](https://i.imgur.com/vT3LldN.png)
+
+https://smellman.github.io/foss4g-asia-2023-rgeo/
+
+---
+
 # My works
 
 - Georepublic Japan GIS Engineer
@@ -328,8 +336,111 @@ Create a LineString from points.
 
 ---
 
+# Others
+
+- LinerRing
+- Polygon
+- GeometryCollection
+- MultiPoint
+- MultiLineString
+- MultiPolygon
+  - All features supports WKT.
+- see: https://github.com/rgeo/rgeo/blob/main/doc/Examples.md
+
+---
+
 # Basics of manipulating and querying geospatial data
 
 ---
 
+# Spatial analysis operations
+
+- unary predicates.
+  - `ccw?`
+  - `empty?`
+  - `simple?`
+- binary predicates.
+  - `contains?`
+  - `crosses?`
+  - `disjoint?`
+  - `crosses?`
+  - `intersects?`
+  - `overlaps?`
+
+---
+
+# `contains?`
+
+```ruby
+require "open-uri"
+require "json"
+require "rgeo"
+require "rgeo-geojson"
+
+my_lat, my_lng = [45, 5]
+my_position = RGeo::Cartesian.
+              factory.
+              point(my_lng, my_lat)
+
+geojson = URI.
+    	  open("https://git.io/rhone-alpes.geojson").
+    	  read
+rhone_alpes = RGeo::GeoJSON.decode(geojson).geometry
+
+if rhone_alpes.contains?(my_position)
+  puts "Let's ski ⛷"
+end
+```
+
+---
+
+# `intersects?`
+
+```ruby
+require "open-uri"
+require "json"
+require "rgeo"
+require "rgeo-geojson"
+
+# FeatureCollection
+line1 = 'https://raw.githubusercontent.com/smellman/foss4g-asia-2023-rgeo/main/data/line1.geojson'
+line2 = 'https://raw.githubusercontent.com/smellman/foss4g-asia-2023-rgeo/main/data/line2.geojson'
+geojson1 = URI.open(line1).read
+geojson2 = URI.open(line2).read
+geometry1 = RGeo::GeoJSON.decode(geojson1)[0].geometry
+geometry2 = RGeo::GeoJSON.decode(geojson2)[0].geometry
+p geometry1.intersects?(geometry2) # => true
+```
+
+---
+
+# Analysis operations
+
+
+
+---
+
 # Integration with Ruby on Rails and real-world application examples using RGeo
+
+---
+
+# Ruby on Rails support
+
+- RGeo provides ActiveRecord extensions for Ruby on Rails with PostGIS.
+  - activerecord-postgis-adapter
+- ActiveRecord is powerful and simple to use.
+  - And RGeo is friendly with ActiveRecord.
+
+---
+
+# Overview
+
+![](https://i.imgur.com/l8cfMeC.png)
+
+---
+
+# 1. Create a new Rails application
+
+```sh
+rails new myapp --api -d postgresql
+```
