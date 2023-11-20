@@ -7,7 +7,7 @@ paginate: true
 
 # RGeo: Handling Geospatial Data for Ruby and Ruby on Rails
 
-Taro Matsuzawa
+Taro Matsuzawa (@smellman)
 Georepublic Japan
 
 ---
@@ -59,7 +59,8 @@ Georepublic Japan
 
 # Main topics
 
-## Ruby language is very powerful and simple, and friendly with Geo Data using RGeo.
+## 1. Ruby language is very powerful and simple, and friendly with Geo Data using RGeo.
+## 2. Rgeo is firendly with Ruby on Rails and PostGIS.
 
 ---
 
@@ -107,10 +108,34 @@ Georepublic Japan
 
 - MRI Ruby 2.6.0 or later.
 - Partial support for JRuby 9.0 or later. The FFI implementation of GEOS is available (ffi-geos gem required) but CAPI is not.
+  - Highly recommended to use MRI Ruby and GEOS CAPI.
 
 ---
 
-# How to install
+# CAPI benchmark
+
+- CAPI is faster than FFI and pure ruby.
+
+```sh
+❯ bundle exec ruby benchmark.rb
+Warming up --------------------------------------
+      with CAPI GEOS   188.859k i/100ms
+       with FFI GEOS    84.720k i/100ms
+         simple ruby   155.000  i/100ms
+Calculating -------------------------------------
+      with CAPI GEOS      1.967M (± 1.3%) i/s -     10.010M in   5.089275s
+       with FFI GEOS    860.127k (± 1.1%) i/s -      4.321M in   5.023924s
+         simple ruby      1.579k (± 0.9%) i/s -      7.905k in   5.008210s
+
+Comparison:
+      with CAPI GEOS:  1967118.2 i/s
+       with FFI GEOS:   860127.1 i/s - 2.29x  slower
+         simple ruby:     1578.5 i/s - 1246.17x  slower
+```
+
+---
+
+# How to install (Debian/Ubuntu)
 
 ```sh
 $ apt install libgeos-dev libproj-dev proj-data
@@ -301,3 +326,10 @@ line_string = factory.line_string([
 
 Create a LineString from points.
 
+---
+
+# Basics of manipulating and querying geospatial data
+
+---
+
+# Integration with Ruby on Rails and real-world application examples using RGeo
