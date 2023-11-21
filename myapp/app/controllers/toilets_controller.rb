@@ -4,8 +4,11 @@ class ToiletsController < ApplicationController
   # GET /toilets
   def index
     @toilets = Toilet.all
-
-    render json: @toilets
+    geojson = {
+      type: "FeatureCollection",
+      features: @toilets.map(&:as_json)
+    }
+    render json: geojson
   end
 
   # GET /toilets/1
