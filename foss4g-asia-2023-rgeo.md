@@ -1,7 +1,7 @@
 ---
 marp: true
 theme: default
-footer: 'FOSS4G Asia 2023'
+footer: 'FOSS4G Asia 2023 Seoul'
 paginate: true
 ---
 
@@ -68,7 +68,7 @@ https://smellman.github.io/foss4g-asia-2023-rgeo/
 # Main topics
 
 ## 1. Ruby language is very powerful and simple, and friendly with Geo Data using RGeo.
-## 2. Rgeo is firendly with Ruby on Rails and PostGIS.
+## 2. RGeo is firendly with Ruby on Rails and PostGIS.
 
 ---
 
