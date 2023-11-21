@@ -444,3 +444,296 @@ p geometry1.intersects?(geometry2) # => true
 ```sh
 rails new myapp --api -d postgresql
 ```
+
+---
+
+# 2. Add activerecord-postgis-adapter to Gemfile
+
+```ruby
+gem 'rgeo'
+gem 'rgeo-geojson'
+gem 'activerecord-postgis-adapter'
+```
+
+---
+
+# 3. Setup database
+
+```diff
+--- a/myapp/config/database.yml
++++ b/myapp/config/database.yml
+@@ -15,7 +15,7 @@
+ # gem "pg"
+ #
+ default: &default
+-  adapter: postgresql
++  adapter: postgis
+   encoding: unicode
+   # For details on connection pooling, see Rails configuration guide
+   # https://guides.rubyonrails.org/configuring.html#database-pooling
+```
+
+---
+
+# 4. Create database
+
+```sh
+rails db:create
+```
+
+---
+
+# 5. Create a migration file to enable PostGIS extension
+
+```sh
+rails g migration AddPostgisExtensionToDatabase
+```
+
+```ruby
+class AddPostgisExtensionToDatabase < ActiveRecord::Migration[7.0]
+  def change
+    enable_extension 'postgis'
+  end
+end
+```
+
+---
+
+# 6. Create a model/migration/controller via scaffold
+
+```sh
+rails g scaffold toilet
+```
+
+---
+
+# 7. Edit migration file
+
+```diff
+--- a/myapp/db/migrate/20231120235529_create_toilets.rb
++++ b/myapp/db/migrate/20231120235529_create_toilets.rb
+@@ -1,6 +1,8 @@
+ class CreateToilets < ActiveRecord::Migration[7.0]
+   def change
+     create_table :toilets do |t|
++      t.string :name
++      t.st_point :location, geographic: true
+ 
+       t.timestamps
+     end
+```
+
+---
+
+# 8. Run migration
+
+```sh
+rails db:migrate
+```
+
+---
+
+# 9. Prepare seeds
+
+- Download data from Overpass Turbo.
+
+```
+node
+  [amenity=toilets]
+  ({{bbox}});
+out;
+```
+
+- Export as GeoJSON.
+
+---
+
+# 10. Put the GeoJSON file into `db/seed_data` directory.
+
+```sh
+
+- Put the GeoJSON file into `db/seed_data` directory.
+
+```sh
+mkdir db/seed_data
+mv ~/Downloads/export.geojson db/seed_data/toilets.geojson
+```
+
+---
+
+# 11. Edit db/seeds.rb
+
+```ruby
+def seed_toilets
+    Rails.logger.info 'Seed toilets'
+    toilets_geojson = File.read('db/seed_data/toilets.geojson')
+    toilets = RGeo::GeoJSON.decode(toilets_geojson)
+    toilets.each do |toilet|
+        name = toilet.properties['name'] ? toilet.properties['name'] : 'no name'
+        Toilet.create(
+            name: name,
+            location: toilet.geometry
+        )
+    end
+end
+seed_toilets
+```
+
+---
+
+# 12. Run db:seed
+
+```sh
+rails db:seed
+```
+
+Check the database.
+
+```sh
+❯ rails r "p Toilet.count"
+662
+```
+
+---
+
+# 13. Edit app/models/toilet.rb
+
+```ruby
+class Toilet < ApplicationRecord
+  def as_geojson
+    {
+      type: "Feature",
+      geometry: RGeo::GeoJSON.encode(self.location),
+      properties: self.attributes.except("location")
+    }
+  end
+    
+  def as_json(options = {})
+    as_geojson
+  end
+end
+```
+
+---
+
+# 14. Edit app/controllers/toilets_controller.rb
+
+```ruby
+def index
+  @toilets = Toilet.all
+  geojson = {
+    type: "FeatureCollection",
+    features: @toilets.map(&:as_json)
+  }
+  render json: geojson
+end
+```
+
+---
+
+Check output
+
+```sh
+curl "http://127.0.0.1:3000/toilets.json" | jq .|head -n 20
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7978412,
+          35.6785662
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "name": "no name",
+        "created_at": "2023-11-21T00:18:37.776Z",
+        "updated_at": "2023-11-21T00:18:37.776Z"
+      }
+    },
+    {
+```
+
+---
+
+`as_json` called in `json:` render by default.
+
+```sh
+❯ curl "http://127.0.0.1:3000/toilets/1.json" | jq .
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.7978412,
+      35.6785662
+    ]
+  },
+  "properties": {
+    "id": 1,
+    "name": "no name",
+    "created_at": "2023-11-21T00:18:37.776Z",
+    "updated_at": "2023-11-21T00:18:37.776Z"
+  }
+}
+```
+
+---
+
+# 15. Supports GeoJSON output
+
+Create `config/initalizers/mime_types.rb`
+
+```ruby
+Mime::Type.register 'application/vnd.geo+json', :geojson
+```
+
+---
+
+# 16. Fix `config/routes.rb`
+
+Default format to `geojson`.
+
+```ruby
+Rails.application.routes.draw do
+  resources :toilets, defaults: { format: 'geojson' }
+end
+```
+
+---
+
+Check output
+
+```sh
+curl "http://127.0.0.1:3000/toilets/1.geojson" | jq .
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      139.7978412,
+      35.6785662
+    ]
+  },
+  "properties": {
+    "id": 1,
+    "name": "no name",
+    "created_at": "2023-11-21T00:18:37.776Z",
+    "updated_at": "2023-11-21T00:18:37.776Z"
+  }
+}
+```
+
+---
+
+![](https://i.imgur.com/pzQPoyQ.jpg)
+
+---
+
+# 17. Define `scope`
+
+```ruby
+```
