@@ -416,7 +416,42 @@ p geometry1.intersects?(geometry2) # => true
 
 # Analysis operations
 
+- `distance`
+- `buffer`
+- `envelope`
+- `convex_hull`
+- `intersection`
+- `union`
+- `unary_union`
+- `difference`
+- `sym_difference`
 
+---
+
+# `distance`
+
+```ruby
+require "open-uri"
+require "json"
+require "rgeo"
+require "rgeo-geojson"
+
+lng, lat = [139.764786, 35.677724]
+tokyo_station = RGeo::Cartesian.
+                factory.
+                point(lng, lat)
+url = "https://raw.githubusercontent.com/smellman/foss4g-asia-2023-rgeo/main/data/hotels.geojson"
+geojson = URI.open(url).read
+hotels = RGeo::GeoJSON.decode(geojson)
+nearest_hotel = hotels.min_by do |hotel|
+  hotel.geometry.distance(tokyo_station)
+end
+puts nearest_hotel.properties["name:en"] # => "Tokyo Station Hotel"
+farthest_hotel = hotels.max_by do |hotel|
+  hotel.geometry.distance(tokyo_station)
+end
+puts farthest_hotel.properties["name"] # => "Appt Ikebukuro"
+```
 
 ---
 
@@ -733,7 +768,57 @@ curl "http://127.0.0.1:3000/toilets/1.geojson" | jq .
 
 ---
 
-# 17. Define `scope`
+# 17. Define `scope` for spatial query in `app/models/toilet.rb`
 
 ```ruby
+scope :distance_sphere, lambda { |longitude, latitude, meter|
+  where("ST_DWithin(toilets.location, ST_GeomFromText('POINT(:longitude :latitude)', 4326), :meter)",
+    { longitude: longitude, latitude: latitude, meter: meter })
+}
 ```
+
+---
+
+# 18. Use `scope` in `app/controllers/toilets_controller.rb`
+
+```ruby
+  def index
+    if params[:longitude] && params[:latitude] && params[:radius]
+      @toilets = Toilet.distance_sphere(
+        params[:longitude].to_f, params[:latitude].to_f, params[:radius].to_i
+      )
+    else
+      @toilets = Toilet.all
+    end
+    geojson = {
+      type: "FeatureCollection",
+      features: @toilets.map(&:as_json)
+    }
+    render json: geojson
+  end
+```
+
+---
+
+Check output
+
+```sh
+# without params
+❯ curl "http://localhost:3000/toilets.json" | jq '.features | length'
+662
+# with params
+❯ curl "http://localhost:3000/toilets.json?latitude=35.677724&longitude=139.76478f6&radius=1000" | jq '.features | length'
+31
+```
+
+---
+
+# TODO for this application:
+
+- Add cors support.
+- Add a map to the frontend.
+- Add routing function using pgRouting.
+
+---
+
+# Thank you!
