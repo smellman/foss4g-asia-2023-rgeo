@@ -1,0 +1,7336 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-21T02:29:16Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/251055437",
+        "name": "Hotel Sumisho",
+        "name:ja": "住庄ほてる",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7792233,
+          35.6855571
+        ]
+      },
+      "id": "node/251055437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301584380",
+        "addr:country": "JP",
+        "addr:ja": "〒110-0015 東京都台東区東上野5-5-6",
+        "internet_access": "wlan",
+        "name": "ホテルマイステイズ上野イースト",
+        "name:en": "Hotel Ueno East",
+        "name:ja": "ホテルマイステイズ上野イースト",
+        "operator": "Hotel Mystays",
+        "phone": "+81 3-5806-2420",
+        "tourism": "hotel",
+        "url": "https://www.mystays.com/ja/hotel/tokyo/hotel-mystays-ueno-east"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7820268,
+          35.7125281
+        ]
+      },
+      "id": "node/301584380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/417434076",
+        "name": "The AGNES",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404848,
+          35.6999399
+        ]
+      },
+      "id": "node/417434076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441692586",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7992658,
+          35.7302491
+        ]
+      },
+      "id": "node/441692586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475090893",
+        "name": "Jal City Yotsuya Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718399,
+          35.688
+        ]
+      },
+      "id": "node/475090893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475090897",
+        "name": "リステル新宿",
+        "name:en": "Listel Shinjuku Hotel",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711418,
+          35.692899
+        ]
+      },
+      "id": "node/475090897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475090905",
+        "brand": "Sotetsu Fresa Inn",
+        "brand:en": "Sotetsu Fresa Inn",
+        "brand:ja": "相鉄フレッサイン",
+        "brand:wikidata": "Q11582448",
+        "name": "相鉄フレッサイン",
+        "name:en": "Sotetsu Fresa Inn",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7079263,
+          35.6985649
+        ]
+      },
+      "id": "node/475090905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475090921",
+        "name": "Shinjuku Sunlite Hotel",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707068,
+          35.694154
+        ]
+      },
+      "id": "node/475090921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506125524",
+        "name": "旅館　更新館",
+        "name:en": "Ryokan Koshinkan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7588315,
+          35.717683
+        ]
+      },
+      "id": "node/506125524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506214939",
+        "name": "旅館　澤の屋",
+        "name:en": "Ryokan Sawanoya",
+        "note": "very famous japanese traditional ryokan, where many foreigner stayed",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "www.sawanoya.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7648638,
+          35.72099
+        ]
+      },
+      "id": "node/506214939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506214982",
+        "name": "アネックス勝太郎旅館",
+        "name:en": "Annex Shotaro Ryokan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647273,
+          35.7266309
+        ]
+      },
+      "id": "node/506214982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/573261208",
+        "name": "マンダリンオリエンタル",
+        "name:en": "Mandarin Oriental, Tokyo",
+        "name:es": "Mandarin Oriental, Tokyo",
+        "operator": "Mandarin Oriental Hotel Group",
+        "payment:coins": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "tourism": "hotel",
+        "wikidata": "Q6747859",
+        "wikimedia_commons": "Category:Mandarin Oriental, Tokyo",
+        "wikipedia": "en:Mandarin Oriental, Tokyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772888,
+          35.687145
+        ]
+      },
+      "id": "node/573261208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/582347970",
+        "name": "ANA Intercontinental Tokyo",
+        "name:ja": "インターコンチネンタルホテル東京",
+        "name:zh": "东京全日空洲际酒店",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q3530512",
+        "wikimedia_commons": "Category:ANA InterContinental Tokyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7406833,
+          35.6680126
+        ]
+      },
+      "id": "node/582347970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599892717",
+        "name": "チサンホテル",
+        "name:en": "Chisun Hotel",
+        "name:ja": "チサンホテル",
+        "source": "Bing 2010",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7555898,
+          35.6498692
+        ]
+      },
+      "id": "node/599892717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/618102602",
+        "name": "The b' Akasaka",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7331552,
+          35.671271
+        ]
+      },
+      "id": "node/618102602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631345230",
+        "addr:postcode": "108-8612",
+        "name": "ザ・プリンス さくらタワー東京",
+        "name:en": "The Prince Sakura Tower Tokyo",
+        "name:es": "The Prince Sakura Tower Tokyo",
+        "name:ja": "ザ・プリンス さくらタワー東京",
+        "operator": "Prince",
+        "tourism": "hotel",
+        "website": "https://www.princehotels.co.jp/sakuratower/",
+        "wikidata": "Q111406723"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7354921,
+          35.6309455
+        ]
+      },
+      "id": "node/631345230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/654591533",
+        "name": "ホテル日本橋サイボー",
+        "name:en": "Hotel Saibo",
+        "name:ja": "ホテル日本橋サイボー",
+        "tourism": "hotel",
+        "website": "https://www.hotel-saibo.co.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7802804,
+          35.6855577
+        ]
+      },
+      "id": "node/654591533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/728435757",
+        "name": "ホテルシエスタ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7101496,
+          35.647972
+        ]
+      },
+      "id": "node/728435757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/739064479",
+        "name": "Avanshell Akasaka",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7378726,
+          35.6715601
+        ]
+      },
+      "id": "node/739064479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/744436432",
+        "name": "ホテルメッツ渋谷",
+        "name:en": "Hotel Mets Shibuya",
+        "name:ja": "ホテルメッツ渋谷",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7039691,
+          35.6558289
+        ]
+      },
+      "id": "node/744436432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/760552145",
+        "name": "Touganeya Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7779092,
+          35.7109556
+        ]
+      },
+      "id": "node/760552145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/825084540",
+        "ele": "124.38",
+        "name": "インターコンチネンタル東京ベイ",
+        "name:en": "Intercontinental Tokyo Bay",
+        "name:es": "Intercontinental Tokyo Bay",
+        "tourism": "hotel",
+        "wikidata": "Q11337842",
+        "wikimedia_commons": "Category:InterContinental Tokyo Bay",
+        "wikipedia": "ja:ホテルインターコンチネンタル東京ベイ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762218,
+          35.6530574
+        ]
+      },
+      "id": "node/825084540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/943719809",
+        "name": "Hotel Wing International Korakuen",
+        "tourism": "hotel",
+        "wikidata": "Q111866018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7558662,
+          35.7056418
+        ]
+      },
+      "id": "node/943719809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1028199574",
+        "name": "サンシティ池袋",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7111086,
+          35.7317121
+        ]
+      },
+      "id": "node/1028199574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1129461705",
+        "fax": "03-3839-1605",
+        "name": "三井ガーデンホテル上野",
+        "name:en": "Mitsui Garden Hotel Ueno",
+        "name:es": "Mitsui Garden Hotel Ueno",
+        "name:ja": "三井ガーデンホテル上野",
+        "phone": "+81 3-3839-1131",
+        "tourism": "hotel",
+        "website": "https://www.gardenhotels.co.jp/ueno",
+        "wikidata": "Q111406680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7782141,
+          35.7118296
+        ]
+      },
+      "id": "node/1129461705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1130555411",
+        "name": "御茶ノ水 イン",
+        "name:en": "Ochanomizu Inn",
+        "name:ja": "御茶ノ水 イン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7663266,
+          35.7015293
+        ]
+      },
+      "id": "node/1130555411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1138645897",
+        "name": "第一ホテル 両国",
+        "name:en": "Dai-ichi Hotel Ryogoku",
+        "name:ja_kana": "だいいちほてるりょうごく",
+        "tourism": "hotel",
+        "wikidata": "Q11602007",
+        "wikipedia": "ja:第一ホテル両国"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7970745,
+          35.6982313
+        ]
+      },
+      "id": "node/1138645897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1185605122",
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "brand:wikipedia": "en:Toyoko Inn",
+        "name": "東横イン 溜池山王駅官邸南",
+        "name:en": "Toyoko Inn",
+        "name:es": "Toyoko Inn",
+        "name:ja": "東横イン 溜池山王駅官邸南",
+        "source": "bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7423292,
+          35.6721908
+        ]
+      },
+      "id": "node/1185605122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1367460965",
+        "name": "Hotel Villa Fontaine",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782585,
+          35.678567
+        ]
+      },
+      "id": "node/1367460965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1401917496",
+        "alt_name:en": "Capsule & Sauna Oriental",
+        "description:en": "Capsule hotel",
+        "name": "オリエンタル",
+        "name:en": "Ueno Station Hostel Oriental 1",
+        "name:ja": "オリエンタル",
+        "operator": "Ueno Station Hostel Oriental",
+        "tourism": "hotel",
+        "website": "http://uenost-hostel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7751903,
+          35.7098534
+        ]
+      },
+      "id": "node/1401917496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1494149076",
+        "addr:block_number": "3",
+        "addr:city": "千代田区",
+        "addr:county": "千代田区",
+        "addr:housenumber": "10",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "100-0014",
+        "addr:province": "東京都",
+        "name": "The Capitol Hotel Tokyu",
+        "name:en": "The Capitol Hotel Tokyu",
+        "name:es": "The Capitol Hotel Tokyu",
+        "name:zh": "东急凯彼德大酒店",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.tokyuhotelsjapan.com/global/capitol-h/",
+        "wheelchair": "yes",
+        "wikidata": "Q11297193",
+        "wikimedia_commons": "Category:Capitol Tokyu Hotel",
+        "wikipedia": "ja:キャピトル東急ホテル"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7409221,
+          35.6741016
+        ]
+      },
+      "id": "node/1494149076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1509875950",
+        "addr:block_number": "14",
+        "addr:city": "港区",
+        "addr:city:en": "Tokyo",
+        "addr:city:es": "Tokio",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "7丁目",
+        "addr:postcode": "106-0032",
+        "addr:province": "東京都",
+        "addr:quarter": "六本木",
+        "contact:phone": "+81(03)68630606",
+        "description": "Hotel Remm Roppongi",
+        "internet_access": "yes",
+        "name": "Remm Roppongi",
+        "opening_hours": "24/7",
+        "operator": "Remm",
+        "tourism": "hotel",
+        "website": "http://www.remm.jp/roppongi/",
+        "wikidata": "Q111406690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7314079,
+          35.6638117
+        ]
+      },
+      "id": "node/1509875950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1555877277",
+        "addr:city": "港区",
+        "addr:country": "JP",
+        "addr:full": "〒105-8582 東京都港区芝公園2-5-20",
+        "addr:postcode": "105-8582",
+        "addr:province": "東京都",
+        "name": "メルパルク",
+        "name:ja": "メルパルク",
+        "name:ja_kana": "メルパルク",
+        "phone": "+81 03-3433-7211",
+        "source": "survey; bing",
+        "tourism": "hotel",
+        "website": "https://www.mielparque.jp/tokyo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7513102,
+          35.6558335
+        ]
+      },
+      "id": "node/1555877277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1589723018",
+        "addr:block_number": "4",
+        "addr:city": "台東区",
+        "addr:city:en": "Taito-ku",
+        "addr:country": "JP",
+        "addr:housenumber": "17",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "111-0043",
+        "addr:province": "東京都",
+        "addr:province:en": "Tokyo",
+        "addr:quarter": "駒形",
+        "addr:quarter:en": "Komagata",
+        "fax": "03-5806-2300",
+        "name": "ホテル法華クラブ浅草",
+        "name:en": "Hotel Hokke Club Asakusa",
+        "name:ja": "ホテル法華クラブ浅草",
+        "operator": "Hotel Hokke Club Group",
+        "phone": "03-5806-2311",
+        "tourism": "hotel",
+        "website": "https://www.hokke.co.jp/asakusa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7945162,
+          35.7068085
+        ]
+      },
+      "id": "node/1589723018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1661350597",
+        "check_date": "2023-01-08",
+        "contact:phone": "+81 3 3875 5362",
+        "contact:website": "http://www.juyoh.co.jp/",
+        "name": "ホテル寿陽",
+        "name:en": "JUYOH HOTEL",
+        "tourism": "hotel",
+        "wikidata": "Q111121655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8007701,
+          35.7267018
+        ]
+      },
+      "id": "node/1661350597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1661350663",
+        "contact:phone": "+81 (0)3-3356-4605",
+        "contact:website": "http://tbh.co.jp/",
+        "name": "東京ビジネスホテル",
+        "name:en": "Tokyo Business Hotel",
+        "name:fr": "Tokyo Business Hotel",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7104827,
+          35.6933919
+        ]
+      },
+      "id": "node/1661350663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1687225183",
+        "email": "h-villa@crocus.ocn.ne.jp",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "ホテル堀留ヴィラ",
+        "name:en": "Horidome Villa",
+        "name:ja": "ホテル堀留ヴィラ",
+        "phone": "03-3664-0840",
+        "rooms": "92",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "http://www.horidomevilla.jp/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7798531,
+          35.6888856
+        ]
+      },
+      "id": "node/1687225183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1693368536",
+        "name": "カプセルイン浜松町",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7544761,
+          35.6570768
+        ]
+      },
+      "id": "node/1693368536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1693368709",
+        "contact:phone": "+81 3-6689-3939",
+        "name": "ホテルマイステイズ 浜松町",
+        "name:en": "Hotel MYSTAYS Hamamatsucho",
+        "source": "survey",
+        "tourism": "hotel",
+        "wikidata": "Q111406718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7551969,
+          35.6582131
+        ]
+      },
+      "id": "node/1693368709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1727248049",
+        "addr:block_number": "3",
+        "addr:city": "港区",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "105-0011",
+        "addr:province": "東京都",
+        "addr:quarter": "芝公園",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "リッチモンドホテル東京芝",
+        "name:en": "Richmond Hotel Tokyo Shiba",
+        "name:ja": "リッチモンドホテル東京芝",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "https://richmondhotel.jp/tokyo-shiba/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7523432,
+          35.6569028
+        ]
+      },
+      "id": "node/1727248049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1734716412",
+        "name": "神田ステーションホテル (Kanda Station Hotel)",
+        "name:en": "Kanda Station Hotel",
+        "name:ja": "神田ステーションホテル",
+        "source": "http://www.kandasth.com/",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770565,
+          35.6894907
+        ]
+      },
+      "id": "node/1734716412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1752050674",
+        "addr:city": "Tokyo",
+        "addr:housenumber": "1-2-7",
+        "addr:street": "Shibadaimon",
+        "contact:phone": "03-5472-2031",
+        "internet_access": "wlan",
+        "name": "相鉄フレッサイン 浜松町大門",
+        "name:en": "Sotetsu Fresa Inn Hamamatsucho Daimon",
+        "name:ja": "相鉄フレッサイン",
+        "phone": "03-5472-2031",
+        "source": "official hotel page",
+        "tourism": "hotel",
+        "wikidata": "Q111406717"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7543337,
+          35.6596278
+        ]
+      },
+      "id": "node/1752050674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1828274059",
+        "name": "Celestine Hotel",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q11314630",
+        "wikimedia_commons": "Category:Celestine Hotel",
+        "wikipedia": "ja:セレスティンホテル"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7488488,
+          35.6510465
+        ]
+      },
+      "id": "node/1828274059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832671045",
+        "name": "コンフォートホテル東京清澄白河",
+        "name:en": "Comfort Hotel Tokyo Kiyosumi-Shirakawa",
+        "operator": "Comfort Hotels",
+        "tourism": "hotel",
+        "wikidata": "Q111866153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7995564,
+          35.6822257
+        ]
+      },
+      "id": "node/1832671045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837996012",
+        "name": "R&B Hotel 東陽町",
+        "name:en": "R&B Hotel",
+        "source": "survey;bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8201038,
+          35.6694408
+        ]
+      },
+      "id": "node/1837996012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1916548178",
+        "level": "0;13",
+        "name": "京王プレッソイン池袋",
+        "name:en": "Keio Presso Inn",
+        "name:ja": "京王プレッソイン池袋",
+        "source": "Bing 2010",
+        "tourism": "hotel",
+        "website": "https://www.presso-inn.com/",
+        "wikidata": "Q11374612",
+        "wikipedia": "ja:京王プレッソイン"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7155508,
+          35.727818
+        ]
+      },
+      "id": "node/1916548178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1931795600",
+        "branch": "浅草千束つくばエクスプレス",
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "brand:wikipedia": "en:Toyoko Inn",
+        "name": "東横イン",
+        "name:en": "Toyoko Inn",
+        "name:ja": "東横イン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7924173,
+          35.7184099
+        ]
+      },
+      "id": "node/1931795600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1956551782",
+        "name": "Agora Place Asakusa",
+        "tourism": "hotel",
+        "wikidata": "Q111406697"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7910022,
+          35.7089395
+        ]
+      },
+      "id": "node/1956551782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1966230675",
+        "addr:city": "Tokyo",
+        "addr:housenumber": "1-7-1",
+        "addr:postcode": "105-7227",
+        "addr:street": "Higashi Shimbashi",
+        "name": "Park Hotel Tokyo",
+        "name:en": "Park Hotel Tokyo",
+        "name:es": "Park",
+        "tourism": "hotel",
+        "website": "https://parkhoteltokyo.com/",
+        "wikidata": "Q11329798",
+        "wikimedia_commons": "Category:Park Hotel Tokyo",
+        "wikipedia": "ja:パークホテル東京"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759628,
+          35.6633462
+        ]
+      },
+      "id": "node/1966230675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1968636429",
+        "name": "Izu Hotel",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7792091,
+          35.7101985
+        ]
+      },
+      "id": "node/1968636429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1986281360",
+        "internet_access": "yes",
+        "name": "秋葉原ワシントンホテル",
+        "name:en": "Akihabara Washington Hotel",
+        "name:es": "Akihabara Washington Hotel",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q111406693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773827,
+          35.6972457
+        ]
+      },
+      "id": "node/1986281360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012214872",
+        "brand:wikidata": "Q259340",
+        "name": "コンフォートホテル東京東日本橋",
+        "name:en": "Comfort Hotel Tokyo Higashi Nihombashi",
+        "name:ja": "コンフォートホテル東京東日本橋",
+        "tourism": "hotel",
+        "website": "https://www.choice-hotels.jp/cfenihon/",
+        "wikidata": "Q111866105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7829667,
+          35.6941351
+        ]
+      },
+      "id": "node/2012214872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021389287",
+        "addr:block_number": "1-6",
+        "addr:city": "Tokyo",
+        "addr:housenumber": "5",
+        "addr:postcode": "101-0025",
+        "addr:suburb": "Kandasakuma-cho",
+        "fax": "81-3-3254-0607",
+        "name": "remm AKIHABARA",
+        "name:en": "remm AKIHABARA",
+        "name:ja": "レム秋葉原",
+        "phone": "81-3-3254-0606",
+        "tourism": "hotel",
+        "website": "http://www.remm.jp/",
+        "wheelchair": "yes",
+        "wikidata": "Q111406691"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7736719,
+          35.6978576
+        ]
+      },
+      "id": "node/2021389287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059755937",
+        "name": "ホテルグレイスリー銀座",
+        "name:en": "Hotel Gracery Ginza",
+        "phone": "+81 3 6686 1000",
+        "tourism": "hotel",
+        "wikidata": "Q111406710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7635671,
+          35.6689441
+        ]
+      },
+      "id": "node/2059755937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212615112",
+        "name": "島根イン 青山",
+        "name:en": "Shimane Inn Aoyama",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713156,
+          35.658487
+        ]
+      },
+      "id": "node/2212615112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2237321678",
+        "name": "HOTEL METS",
+        "source": "suevey",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7471812,
+          35.7362264
+        ]
+      },
+      "id": "node/2237321678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2258202676",
+        "name": "西鉄イン日本橋",
+        "name:en": "Nishitetsu Inn Nihombashi",
+        "name:ja": "西鉄イン日本橋",
+        "tourism": "hotel",
+        "website": "https://www.n-inn.jp/",
+        "wikidata": "Q11629889",
+        "wikipedia": "ja:西鉄ホテルズ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7795677,
+          35.6854266
+        ]
+      },
+      "id": "node/2258202676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2258202679",
+        "name": "Hotel Villa Fontaine",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7773576,
+          35.6862937
+        ]
+      },
+      "id": "node/2258202679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271379722",
+        "name": "安心お宿",
+        "name:en": "Capsule Hotel Anshin Oyado",
+        "name:ja": "豪華 カプセルホテル安心お宿",
+        "name:ko": "캡슐호텔 안심 오야도",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770813,
+          35.6979699
+        ]
+      },
+      "id": "node/2271379722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2280500583",
+        "name": "AIM",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7063971,
+          35.6906507
+        ]
+      },
+      "id": "node/2280500583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2283943990",
+        "name": "R&B",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7853398,
+          35.6939444
+        ]
+      },
+      "id": "node/2283943990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2298236532",
+        "name": "ワシントンホテル",
+        "name:en": "Washington Hotel",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7929743,
+          35.6326539
+        ]
+      },
+      "id": "node/2298236532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2327919965",
+        "name": "Hotel Sardonyx Ueno",
+        "tourism": "hotel",
+        "wikidata": "Q111406685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7761683,
+          35.7087314
+        ]
+      },
+      "id": "node/2327919965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2331421946",
+        "addr:city": "港区",
+        "addr:postcode": "106-0032",
+        "addr:street": "六本木3-9-8",
+        "name": "the b roppongi",
+        "tourism": "hotel",
+        "website": "http://www.theb-hotels.com/the-b-roppongi/jp/",
+        "website:en": "http://www.theb-hotels.com/the-b-roppongi/en/",
+        "website:ja": "http://www.theb-hotels.com/the-b-roppongi/jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7336473,
+          35.6636782
+        ]
+      },
+      "id": "node/2331421946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2428670913",
+        "name": "Wasou",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7956229,
+          35.716625
+        ]
+      },
+      "id": "node/2428670913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2571001911",
+        "addr:block_number": "19",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "116-0013",
+        "brand": "Hotel Sunny",
+        "internet_access": "wlan",
+        "name": "Hotel Sunny",
+        "name:de": "Hotel Sunny",
+        "phone": "+81 3 3807 3200",
+        "rooms": "40",
+        "tourism": "hotel",
+        "website": "http://www.hotelsunny.co.jp/index_en.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7712927,
+          35.7284156
+        ]
+      },
+      "id": "node/2571001911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2617001145",
+        "addr:city": "tokyo",
+        "addr:housenumber": "1-2-9",
+        "addr:postcode": "160-0021",
+        "addr:street": "Kabukicho, Shinjuku",
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Best Western Shinjuku",
+        "name:en": "Best Western Shinjuku",
+        "smoking": "separated",
+        "tourism": "hotel",
+        "website": "https://www.bw-shinjuku.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7043162,
+          35.6944088
+        ]
+      },
+      "id": "node/2617001145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700747338",
+        "addr:city": "港区",
+        "addr:housenumber": "1-6-3",
+        "addr:postcode": "105-8333",
+        "addr:street": "東新橋",
+        "name": "ロイヤルパークホテル ザ 汐留",
+        "name:en": "Royal Park Hotel",
+        "name:es": "Royal Park Hotel",
+        "phone": "03-6253-1111",
+        "tourism": "hotel",
+        "website": "http://www.rph-the.co.jp/shiodome/index.php",
+        "wheelchair": "yes",
+        "wikidata": "Q11350136",
+        "wikipedia": "en:Royal Park Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7604942,
+          35.6640065
+        ]
+      },
+      "id": "node/2700747338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2702638390",
+        "name": "デイナイスホテル東京",
+        "name:en": "Day Nice Hotel Tokyo",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8019679,
+          35.6693406
+        ]
+      },
+      "id": "node/2702638390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2714679867",
+        "name": "貴美旅館",
+        "name:en": "Kimi Ryokan",
+        "name:es": "Kimi Ryokan",
+        "name:fr": "Kimi Ryokan",
+        "name:ja": "貴美旅館",
+        "name:ja_kana": "きみりょかん",
+        "name:ja_rm": "kimi ryokan",
+        "tourism": "hotel",
+        "website": "http://www.kimi-ryokan.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707565,
+          35.7334449
+        ]
+      },
+      "id": "node/2714679867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2789436036",
+        "addr:city": "Tokyo",
+        "addr:housenumber": "1-15-4",
+        "addr:street": "Nihonbashi-kakigara-cho",
+        "name": "Sotetsu Fresa Inn Nihombashi-Ningyocho",
+        "phone": "03-5695-0203",
+        "tourism": "hotel",
+        "website": "http://fresa-inn.jp/eng/ningyocho/",
+        "wikidata": "Q111662076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7825686,
+          35.683175
+        ]
+      },
+      "id": "node/2789436036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2794707535",
+        "addr:city": "Tokyo",
+        "addr:housenumber": "3-14-21",
+        "addr:postcode": "108-0023",
+        "addr:street": "Shibaura",
+        "name": "相鉄フレッサイン 東京田町",
+        "name:en": "Sotetsu Fresa Inn Tokyo-Tamachi",
+        "name:ja": "相鉄フレッサイン 東京田町",
+        "tourism": "hotel",
+        "website": "https://fresa-inn.jp/",
+        "wheelchair": "yes",
+        "wikidata": "Q11582448",
+        "wikimedia_commons": "Category:Sotetsu Hotel Management",
+        "wikipedia": "ja:相鉄フレッサイン"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7478507,
+          35.6427286
+        ]
+      },
+      "id": "node/2794707535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2838965135",
+        "addr:postcode": "170-0004",
+        "fax": "+81-(0)3-5394-1044",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "東横INN 山手線大塚駅北口2",
+        "name:en": "Toyoko Inn Tokyo Yamanote-sen Otsuka-eki Kita-guchi No.2",
+        "name:ja": "東横INN山手線大塚駅北口2",
+        "operator": "Toyoko Inn",
+        "phone": "+81-(0)3-5394-1045",
+        "ref": "139",
+        "smoking": "separated",
+        "tourism": "hotel",
+        "website": "https://www.toyoko-inn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7272707,
+          35.7326144
+        ]
+      },
+      "id": "node/2838965135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2885338395",
+        "addr:city": "Tokyo",
+        "addr:street": "東京都新宿区高田馬場1-27-7",
+        "name": "相鉄グランドフレッサ 高田馬場",
+        "name:en": "sotetsu GrandFresa Takadababa",
+        "name:ja": "相鉄グランドフレッサ 高田馬場",
+        "phone": "+81 (0)3-5291-8203",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://sotetsu-hotels.com/grand-fresa/takadanobaba/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7048803,
+          35.7125875
+        ]
+      },
+      "id": "node/2885338395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2952666854",
+        "contact:phone": "+81 3 3839 8100",
+        "description:en": "Sauna & capsule hotel.",
+        "name": "サウナ＆カプセルホテル ダンディ",
+        "name:en": "Dandy",
+        "note": "通称ペーサウナ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7727773,
+          35.7087707
+        ]
+      },
+      "id": "node/2952666854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2962678703",
+        "check_date": "2023-01-08",
+        "name": "スマイルホテル浅草 Smile Hotel Asakusa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8016688,
+          35.7181744
+        ]
+      },
+      "id": "node/2962678703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2974353325",
+        "name": "Tokyu Stay",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "https://www.tokyustay.co.jp/hotel/AO/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7167864,
+          35.6687953
+        ]
+      },
+      "id": "node/2974353325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3174729611",
+        "name": "両国ビューホテル",
+        "name:en": "Ryogoku View Hotel",
+        "name:ja": "両国ビューホテル",
+        "name:ja_kana": "りょうごく びゅーほてる",
+        "name:ja_rm": "Ryogoku vyu hoteru",
+        "tourism": "hotel",
+        "website": "http://www.hotel-bellegrande.co.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7920747,
+          35.6954897
+        ]
+      },
+      "id": "node/3174729611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3174729616",
+        "name": "両国リバーホテル",
+        "name:en": "Ryogoku River Hotel",
+        "name:ja": "両国リバーホテル",
+        "name:ja_kana": "りょうごくりばーほてる",
+        "name:ja_rm": "ryōgokuribāhoteru",
+        "tourism": "hotel",
+        "website": "https://www.riverhotel.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7915397,
+          35.6955866
+        ]
+      },
+      "id": "node/3174729616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3180896317",
+        "addr:street": "5-5-13 Higashiueno, Taito-ku,Tokyo 110-0015",
+        "name": "Hotel Mystays Ueno-Iriyaguchi",
+        "name:ja": "ホテルマイステイズ",
+        "operator": "MyStays Hotel Chain",
+        "phone": "+81(0)3-3842-2461",
+        "smoking": "outside",
+        "tourism": "hotel",
+        "website": "http://m.mystays.com/ms-ueno-iriyaguchi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7820511,
+          35.7128225
+        ]
+      },
+      "id": "node/3180896317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3209412918",
+        "addr:street": "東通り",
+        "amenity": "theatre",
+        "name": "日本東京都新宿區 東横INN新宿歌舞伎町",
+        "name:en": "Toyoko Inn Shinjuku Kabukicho",
+        "name:ja": "東横INN新宿歌舞伎町",
+        "short_name": "東橫Inn",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q665216",
+        "wikipedia": "en:Kabukichō"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7043625,
+          35.697291
+        ]
+      },
+      "id": "node/3209412918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3211892961",
+        "building:levels": "20",
+        "check_date": "2023-03-17",
+        "name": "相鉄グランドフレッサ東京ベイ有明",
+        "name:en": "Sunroute Ariake",
+        "name:ja": "相鉄グランドフレッサ東京ベイ有明",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q11337870",
+        "wikimedia_commons": "Category:Hotel Sunroute Ariake",
+        "wikipedia": "ja:相鉄グランドフレッサ東京ベイ有明"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.789591,
+          35.632139
+        ]
+      },
+      "id": "node/3211892961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3366070993",
+        "addr:city": "Minato-Ku",
+        "addr:housenumber": "芝1-8-18",
+        "addr:postcode": "105-0014",
+        "atm": "no",
+        "contact:email": "hamamatsuchou@kuretake-inn.com",
+        "fax": "+81-3-5476-2210",
+        "internet_access": "wlan",
+        "name": "くれたけインプレミアム浜松町",
+        "name:en": "Kuretake Inn Premium Hamamatsucho",
+        "phone": "+81-3-5476-2211",
+        "source": "現地、案内パンフレット",
+        "tourism": "hotel",
+        "website": "http://www.kuretake-inn.com/premium/hamamatsu-chou/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.755333,
+          35.650891
+        ]
+      },
+      "id": "node/3366070993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3494557543",
+        "alt_name:en": "Capsule and Sauna New Century",
+        "description:en": "Capsule hotel",
+        "internet_access": "wlan",
+        "name": "ニューセンチュリー",
+        "name:en": "Ueno Station Hostel Oriental 2",
+        "name:ja": "ニューセンチュリー",
+        "opening_hours": "24/7",
+        "operator": "Ueno Station Hostel Oriental",
+        "tourism": "hotel",
+        "website": "http://uenost-hostel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7754353,
+          35.7097936
+        ]
+      },
+      "id": "node/3494557543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3549691494",
+        "brand": "Park Inn",
+        "brand:wikidata": "Q60711675",
+        "brand:wikipedia": "ru:Park Inn by Radisson",
+        "name": "新宿ホテルパークイン",
+        "name:en": "PARK INN",
+        "phone": "03-3354-9000",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7102302,
+          35.6905118
+        ]
+      },
+      "id": "node/3549691494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3555300496",
+        "addr:city": "東京都",
+        "addr:country": "JP",
+        "addr:housenumber": "1-9-1",
+        "addr:place": "千代田区",
+        "addr:postcode": "100-0005",
+        "addr:street": "丸の内",
+        "name": "東京ステーションホテル",
+        "name:en": "Tokyo Station Hotel",
+        "name:es": "Tokyo Station Hotel",
+        "name:ja": "東京ステーションホテル",
+        "name:zh": "東京車站大飯店",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.thetokyostationhotel.jp/",
+        "wheelchair": "yes",
+        "wikidata": "Q11524193",
+        "wikimedia_commons": "Category:Tokyo Station Hotel",
+        "wikipedia": "ja:東京ステーションホテル"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7659164,
+          35.6810129
+        ]
+      },
+      "id": "node/3555300496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3558591847",
+        "name": "Hotel Villa Fontaine Roppongi",
+        "name:zh": "六本木之丘喷泉别墅酒店",
+        "source": "Bing,2007",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7395775,
+          35.664151
+        ]
+      },
+      "id": "node/3558591847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3608447725",
+        "branch": "半蔵門　平河町",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "source": "Bing,survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7399641,
+          35.6829268
+        ]
+      },
+      "id": "node/3608447725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3608956893",
+        "addr:country": "JP",
+        "addr:district": "Taitō",
+        "addr:street": "Yanagibashi",
+        "addr:subdistrict": "Asakusabashi",
+        "contact:phone": "+81 3-3861-8784",
+        "contact:website": "http://www.hotel-yanagibasi.jp/",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Yanagibasi",
+        "name:en": "Hotel Yanagibasi",
+        "name:ja": "ホテル柳橋",
+        "stars": "2",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7862672,
+          35.6961197
+        ]
+      },
+      "id": "node/3608956893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3622904483",
+        "name": "イーホテル東新宿",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707105,
+          35.6977901
+        ]
+      },
+      "id": "node/3622904483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3693616537",
+        "name": "Hotel Resol Ikebukuro",
+        "tourism": "hotel",
+        "website": "https://www.resol-ikebukuro.com/",
+        "wikidata": "Q111865978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7162363,
+          35.7270721
+        ]
+      },
+      "id": "node/3693616537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3762168761",
+        "name": "KKRホテル東京",
+        "name:en": "KKR Hotel Tokyo",
+        "name:es": "KKR Hotel Tokyo",
+        "name:ja": "KKRホテル東京",
+        "tourism": "hotel",
+        "wikidata": "Q111866060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7605051,
+          35.6906794
+        ]
+      },
+      "id": "node/3762168761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3767433293",
+        "name": "ホテル龍名館お茶の水本店",
+        "name:en": "Hotel Ryumeikan OCHANOMIZU HONTEN",
+        "name:ja": "ホテル龍名館お茶の水本店",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7656837,
+          35.6964068
+        ]
+      },
+      "id": "node/3767433293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768549331",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "name": "アパホテル",
+        "name:en": "APA Hotel Jimbocho",
+        "name:ja": "アパホテル神保町",
+        "operator:en": "APA Group",
+        "tourism": "hotel",
+        "website": "https://www.apahotel.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7621372,
+          35.6945386
+        ]
+      },
+      "id": "node/3768549331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3868455500",
+        "addr:city": "千代田区",
+        "addr:housenumber": "1-1-16",
+        "addr:street": "三崎",
+        "name": "庭のホテル 東京",
+        "name:en": "Hotel Niwa Tokyo",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7568203,
+          35.7005127
+        ]
+      },
+      "id": "node/3868455500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3888784785",
+        "name": "山の上ホテル",
+        "name:en": "Hilltop Hotel",
+        "name:es": "Hilltop Hotel",
+        "tourism": "hotel",
+        "wikidata": "Q11465792",
+        "wikimedia_commons": "Category:Hilltop Hotel",
+        "wikipedia": "ja:山の上ホテル"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7612519,
+          35.6981072
+        ]
+      },
+      "id": "node/3888784785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3891067866",
+        "name": "サンターガス",
+        "name:en": "SUN TARGAS",
+        "name:es": "SUN TARGAS",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7774543,
+          35.7099482
+        ]
+      },
+      "id": "node/3891067866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3941911070",
+        "name": "その家",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8011107,
+          35.7264981
+        ]
+      },
+      "id": "node/3941911070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3941911072",
+        "check_date": "2023-01-08",
+        "name": "福田屋別館",
+        "name:en": "BusinessHotel Fukudaya",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8011279,
+          35.7259404
+        ]
+      },
+      "id": "node/3941911072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3941911073",
+        "name": "つつじ屋",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8011439,
+          35.7264355
+        ]
+      },
+      "id": "node/3941911073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3941911084",
+        "name": "ホテル むさし",
+        "name:en": "Hotel Musashi",
+        "phone": "+81 3 38755362",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8014254,
+          35.7266217
+        ]
+      },
+      "id": "node/3941911084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3949007421",
+        "name": "相鉄フレッサイン",
+        "name:en": "Sotetsu Fresa Inn Tokyo-Toyocho",
+        "tourism": "hotel",
+        "wikidata": "Q111866184"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8176389,
+          35.6698927
+        ]
+      },
+      "id": "node/3949007421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3993029696",
+        "name": "ホテルユニゾ新橋",
+        "name:en": "Hotel Unizo Shimbashi",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.755049,
+          35.6665145
+        ]
+      },
+      "id": "node/3993029696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4059463490",
+        "addr:city": "東京都港区",
+        "addr:housenumber": "1-19-14",
+        "addr:postcode": "105-0013",
+        "addr:street": "浜松町",
+        "name": "名鉄イン浜松町",
+        "name:en": "Meitetsu Inn Hamamatsucho",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7556588,
+          35.6579365
+        ]
+      },
+      "id": "node/4059463490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4071214124",
+        "name": "鳳明館　本館・台町別館",
+        "name:en": "Homeikan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7563519,
+          35.7112786
+        ]
+      },
+      "id": "node/4071214124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130115103",
+        "internet_access": "wlan",
+        "name": "Hotel Villa Fontaine Tamachi",
+        "phone": "+81357307770",
+        "tourism": "hotel",
+        "website": "https://hvf.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7450712,
+          35.6427268
+        ]
+      },
+      "id": "node/4130115103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4177135790",
+        "addr:full": "〒110-0005 東京都台東区上野7-7-1",
+        "addr:housenumber": "7-7-1",
+        "addr:street": "Ueno",
+        "email": "info@sunroute-ueno.jp",
+        "email_1": "info@sunroute-ueno.jp",
+        "name": "ホテルサンルート\"ステラ\"上野",
+        "name:en": "Hotel Sunroute Stellar Ueno",
+        "name:ja": "ホテルサンルート\"ステラ\"上野",
+        "name:ja_kana": "ホテルサンルート\"ステラ\"うえの",
+        "phone": "+81 35-806-1200",
+        "tourism": "hotel",
+        "website": "http://www.sunroute-ueno.jp/en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7780886,
+          35.7136306
+        ]
+      },
+      "id": "node/4177135790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4200087020",
+        "internet_access": "wlan",
+        "level": "1;10",
+        "name": "ohedo hotel",
+        "name:ja": "ホテルオーエド",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7093609,
+          35.7352936
+        ]
+      },
+      "id": "node/4200087020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4220203490",
+        "name": "Aizuya-Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8009929,
+          35.7275069
+        ]
+      },
+      "id": "node/4220203490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228352089",
+        "name": "the Gate Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7952163,
+          35.7108695
+        ]
+      },
+      "id": "node/4228352089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241325996",
+        "addr:housenumber": "2-36-6",
+        "addr:postcode": "111-0022",
+        "addr:street": "Kiyokawa Taito City",
+        "check_date": "2023-01-08",
+        "email": "palace.japan.hotel@gmail.com",
+        "internet_access": "wlan",
+        "name": "Hotel Palace Japan",
+        "opening_hours": "24/7",
+        "phone": "+810364581540",
+        "tourism": "hotel",
+        "website": "www.palace-japan.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8000127,
+          35.7281949
+        ]
+      },
+      "id": "node/4241325996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4267360790",
+        "name": "The Edo Sakura",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7854294,
+          35.7235258
+        ]
+      },
+      "id": "node/4267360790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269834397",
+        "name": "Gran Bell Hotel",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q111406661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7054434,
+          35.696587
+        ]
+      },
+      "id": "node/4269834397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4302822192",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "APA Hotel 上野野駅北",
+        "name:en": "APA Hotel Ueno Ekikita",
+        "name:ja": "アパホテル 上野野駅北",
+        "name:zh-Hant": "APA Hotel 上野站北",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7804667,
+          35.7159518
+        ]
+      },
+      "id": "node/4302822192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315655214",
+        "addr:street": "首都高速1号上野線",
+        "name": "Super Hotel Lohas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7800313,
+          35.7153499
+        ]
+      },
+      "id": "node/4315655214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4335647789",
+        "internet_access": "wlan",
+        "name": "日本橋ホテル",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7814446,
+          35.6897919
+        ]
+      },
+      "id": "node/4335647789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4337866290",
+        "name": "池袋中央宾馆",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7135569,
+          35.7321555
+        ]
+      },
+      "id": "node/4337866290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4337882989",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7135341,
+          35.7320787
+        ]
+      },
+      "id": "node/4337882989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4339092243",
+        "branch": "アキバ浅草橋駅東口",
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "brand:wikipedia": "en:Toyoko Inn",
+        "name": "東横イン",
+        "name:en": "Toyoko Inn",
+        "name:ja": "東横イン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7879574,
+          35.699403
+        ]
+      },
+      "id": "node/4339092243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4357355389",
+        "name": "Hotel Tokio",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7823784,
+          35.6833583
+        ]
+      },
+      "id": "node/4357355389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4391267801",
+        "name": "Ueno Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.780586,
+          35.7161031
+        ]
+      },
+      "id": "node/4391267801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4397268750",
+        "name": "Sutton Place Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7791359,
+          35.7139927
+        ]
+      },
+      "id": "node/4397268750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4409605399",
+        "name": "東京木場ホテル",
+        "name:en": "Tokyo Kiba Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8049986,
+          35.6686056
+        ]
+      },
+      "id": "node/4409605399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4409804895",
+        "name:ko": "도쿄스테이",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7056397,
+          35.6908052
+        ]
+      },
+      "id": "node/4409804895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448733302",
+        "addr:housenumber": "3-1-10",
+        "addr:postcode": "111-0053",
+        "addr:street": "Asakusabashi",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "name": "APA Hotel Asakusabashi-Ekikita",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7878788,
+          35.7001656
+        ]
+      },
+      "id": "node/4448733302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4458066194",
+        "check_date": "2023-01-08",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "ビジネスホテル 福田屋",
+        "name:en": "Asakusa Hotel Fukudaya",
+        "name:ja": "ビジネスホテル 福田屋",
+        "name:zh": "淺草福田酒店",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "tourism": "hotel",
+        "website": "http://h-fukudaya.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8016022,
+          35.725888
+        ]
+      },
+      "id": "node/4458066194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4465721893",
+        "name": "Capsule Value Kanda",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7707497,
+          35.6896543
+        ]
+      },
+      "id": "node/4465721893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4501131334",
+        "addr:city": "Tokyo",
+        "addr:postcode": "140-0061",
+        "addr:street": "Chuo-ku Ginza 1-13-15",
+        "internet_access": "wlan",
+        "name": "ダイワロイネットホテル銀座プレミア",
+        "name:en": "Daiwa Roynet Hotel Ginza Premier",
+        "stars": "3",
+        "tourism": "hotel",
+        "wikidata": "Q111406709"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7690493,
+          35.6732755
+        ]
+      },
+      "id": "node/4501131334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4514611786",
+        "addr:full": "東京都中央区八重洲2丁目2番7号",
+        "addr:postcode": "104-0028",
+        "branch": "東京駅八重洲中央口",
+        "name": "スーパーホテルLOHAS",
+        "name:en": "Lohas Hotel",
+        "name:es": "Lohas Hotel",
+        "phone": "03-3241-9000",
+        "tourism": "hotel",
+        "website": "https://www.superhotel.co.jp/s_hotels/yaesu/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7699211,
+          35.6792654
+        ]
+      },
+      "id": "node/4514611786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524246754",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "ファーストキャビン愛宕山",
+        "phone": "03-3433-1126",
+        "smoking": "no",
+        "stars": "5",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7520437,
+          35.6642293
+        ]
+      },
+      "id": "node/4524246754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529477028",
+        "name": "ホテルセブンシーズ銀座",
+        "name:en": "Hotel Seven Seas GINZA",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7728275,
+          35.672073
+        ]
+      },
+      "id": "node/4529477028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4531034892",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "レム 日比谷",
+        "name:en": "Remm Hibiya",
+        "phone": "03 3507 4123",
+        "tourism": "hotel",
+        "website": "http://remm.jp/hibiya",
+        "wheelchair": "yes",
+        "wikidata": "Q111406702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7595528,
+          35.6725619
+        ]
+      },
+      "id": "node/4531034892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4546326389",
+        "name:en": "Mikuni",
+        "name:ko": "미쿠니",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7267855,
+          35.682878
+        ]
+      },
+      "id": "node/4546326389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4654554762",
+        "addr:block_number": "14",
+        "addr:city": "Minato-ku",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "105-0004",
+        "addr:province": "Tokyo",
+        "addr:quarter": "Shimbashi",
+        "branch": "新橋日比谷口",
+        "brand": "Sotetsu Fresa Inn",
+        "fax": "03-5157-2035",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Sotetsu Fresa Inn Shimbashi-Hibiyaguchi",
+        "operator": "Sotetsu Hotel Management",
+        "phone": "03-5157-2031",
+        "rooms": "218",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://fresa-inn.jp/shinbashi/",
+        "wikidata": "Q111866114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757632,
+          35.6682969
+        ]
+      },
+      "id": "node/4654554762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694614790",
+        "addr:block_number": "10",
+        "addr:city": "港区",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "105-0001",
+        "addr:province": "東京都",
+        "addr:quarter": "虎ノ門",
+        "name": "The Okura Tokyo",
+        "operator": "株式会社ホテルオークラ東京",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q11337851",
+        "wikimedia_commons": "Category:Hotel Okura Tokyo",
+        "wikipedia": "ja:ホテルオークラ東京"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7436951,
+          35.6668751
+        ]
+      },
+      "id": "node/4694614790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4702959517",
+        "addr:full": "東京都港区浜松町2丁目7-18",
+        "fax": "+81 3 6435 9579",
+        "name": "三交インGrande東京浜松町",
+        "name:en": "Sanco Inn Grande Tokyo Hamamatsucho",
+        "name:ja": "三交インGrande東京浜松町",
+        "phone": "+81 3 6435 9537",
+        "tourism": "hotel",
+        "website": "https://www.sanco-inn.co.jp/hamamatsucho/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7546235,
+          35.6542376
+        ]
+      },
+      "id": "node/4702959517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4708576957",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Appt Ikebukuro",
+        "operator": "Vivre le Japon",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7078979,
+          35.7346901
+        ]
+      },
+      "id": "node/4708576957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4748665444",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "name": "APA Hotel Higashi-Nihombashi-Ekimae",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7848511,
+          35.6925392
+        ]
+      },
+      "id": "node/4748665444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4763946422",
+        "internet_access": "wlan",
+        "name:fr": "Appt Ikebukuro",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7076529,
+          35.7340612
+        ]
+      },
+      "id": "node/4763946422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4764939921",
+        "check_date": "2023-01-31",
+        "internet_access": "wlan",
+        "name": "ホテルモントレ半蔵門",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7419461,
+          35.6867028
+        ]
+      },
+      "id": "node/4764939921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4767168963",
+        "internet_access": "wlan",
+        "name:fr": "Appt Ikebukuro",
+        "tourism": "hotel",
+        "website": "https://www.vivrelejapon.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7081373,
+          35.7341251
+        ]
+      },
+      "id": "node/4767168963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776357922",
+        "name:en": "Air bnb",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706473,
+          35.730956
+        ]
+      },
+      "id": "node/4776357922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4780804821",
+        "email": "info@obi-hostel.com",
+        "internet_access": "wlan",
+        "name:en": "Obi hostel",
+        "name:fr": "Obi hostel",
+        "phone": "0344055092",
+        "tourism": "hotel",
+        "website": "https://www.obi-hostel.com",
+        "wikidata": "Q111121649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7819546,
+          35.6921573
+        ]
+      },
+      "id": "node/4780804821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4788544967",
+        "name": "マーキュリー",
+        "name:en": "Mercury",
+        "tourism": "hotel",
+        "wikidata": "Q111067690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7870065,
+          35.6988497
+        ]
+      },
+      "id": "node/4788544967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4830242624",
+        "name:en": "Toyoko Inn Toyoko Inn Nihombashi Mitsukoshi",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7789466,
+          35.6876069
+        ]
+      },
+      "id": "node/4830242624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4847003223",
+        "name": "R&B Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7294216,
+          35.7321616
+        ]
+      },
+      "id": "node/4847003223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4864258012",
+        "addr:city": "Minato",
+        "addr:postcode": "105-7337",
+        "addr:street": "1 Chome-9 Higashi-Shinbashi",
+        "brand": "Conrad",
+        "brand:wikidata": "Q855525",
+        "brand:wikipedia": "en: Conrad Hotels",
+        "contact:facebook": "https://www.facebook.com/conradtokyo",
+        "contact:instagram": "https://instagram.com/conrad_tokyo/",
+        "contact:twitter": "https://twitter.com/conradtokyo",
+        "contact:youtube": "https://www.youtube.com/ConradTokyoHotel",
+        "email": "conrad_tokyo@conradhotels.com",
+        "internet_access": "yes",
+        "name": "Conrad Tokyo",
+        "operator": "Hilton",
+        "phone": "+81 3 6388 8000",
+        "rooms": "291",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/tyocici-conrad-tokyo/",
+        "wikidata": "Q26237391",
+        "wikimedia_commons": "Category:Conrad Tokyo",
+        "wikipedia": "ja:コンラッド東京"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7614085,
+          35.6630388
+        ]
+      },
+      "id": "node/4864258012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4871876322",
+        "name": "New Tochigiya",
+        "name:ja": "New Tochigiya",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7941433,
+          35.7161469
+        ]
+      },
+      "id": "node/4871876322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897470921",
+        "name": "新宿区役所前カプセルホテル",
+        "name:zh": "新宿區役前所膠囊旅館",
+        "tourism": "hotel",
+        "website": "http://capsuleinn.com/shinjuku",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7039662,
+          35.6937171
+        ]
+      },
+      "id": "node/4897470921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916978021",
+        "internet_access": "wlan",
+        "name": "ムスビー",
+        "name:en": "Mus Bee",
+        "phone": "03-6402-5240",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7565411,
+          35.6581054
+        ]
+      },
+      "id": "node/4916978021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4940280623",
+        "name": "ホテル池袋サウナ＆カプセル",
+        "name:en": "Hotel Ikebukuro Sauna & Capsule",
+        "name:es": "Hotel Ikebukuro Sauna & Capsule",
+        "name:ja": "ホテル池袋サウナ＆カプセル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7084396,
+          35.7323812
+        ]
+      },
+      "id": "node/4940280623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4948121125",
+        "name": "秋葉原おもてなし宿",
+        "name:en": "Akihabara Omotenashi Yado",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7723632,
+          35.7031588
+        ]
+      },
+      "id": "node/4948121125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4950628921",
+        "addr:postcode": "103-0026",
+        "name:fr": "Rbnb tokyo",
+        "phone": "+818055609111",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77628,
+          35.6791541
+        ]
+      },
+      "id": "node/4950628921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4963011103",
+        "name": "旅館東館",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7726162,
+          35.7022619
+        ]
+      },
+      "id": "node/4963011103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4965907582",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7051894,
+          35.698001
+        ]
+      },
+      "id": "node/4965907582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4965907584",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7047575,
+          35.6980547
+        ]
+      },
+      "id": "node/4965907584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989869695",
+        "name": "HOTEL NIHONBASHI VILLA",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7835266,
+          35.6952957
+        ]
+      },
+      "id": "node/4989869695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999038321",
+        "name:en": "Via Inn Akihabara",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7723342,
+          35.6964833
+        ]
+      },
+      "id": "node/4999038321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5014245135",
+        "name": "リッチモンドホテル東京",
+        "name:en": "Hôtel Richmond",
+        "name:ja": "リッチモンドホテル東京",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7050243,
+          35.722083
+        ]
+      },
+      "id": "node/5014245135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5049820223",
+        "internet_access": "wlan",
+        "name:en": "Tokyo BUC",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7786775,
+          35.6588295
+        ]
+      },
+      "id": "node/5049820223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5060396439",
+        "name": "ホテルニューグリーン御徒町",
+        "name:en": "Hotel New Green",
+        "name:fr": "Hotel New Green",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7756088,
+          35.7049078
+        ]
+      },
+      "id": "node/5060396439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5088377221",
+        "addr:full": "〒150-0002 Tokyo, Shibuya City, Shibuya, 3 Chome−26−21 東急ステイ渋谷新南口 １階",
+        "brand": "Tokyu Resorts & Stays Co., Ltd",
+        "name": "東急ステイ 渋谷新南口",
+        "name:en": "Tokyu Stay Shibuya Shin-Minamiguchi",
+        "name:ja": "東急ステイ 渋谷新南口",
+        "phone": "+810354660109",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.tokyustay.co.jp/hotel/SIM",
+        "wikidata": "Q111866030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7053356,
+          35.6544501
+        ]
+      },
+      "id": "node/5088377221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5121958650",
+        "name": "Hotel MYSTAYS",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7974499,
+          35.7039441
+        ]
+      },
+      "id": "node/5121958650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5123783348",
+        "name": "ホテルニューウエノ",
+        "name:en": "Hotel New Ueno",
+        "tourism": "hotel",
+        "wikidata": "Q111866031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7775802,
+          35.7125763
+        ]
+      },
+      "id": "node/5123783348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5136148682",
+        "name": "The B Ochanomizu",
+        "phone": "+81332542888",
+        "tourism": "hotel",
+        "wikidata": "Q111866063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7665156,
+          35.6956973
+        ]
+      },
+      "id": "node/5136148682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5136149301",
+        "name": "Super Hotel LOHAS Akasaka",
+        "tourism": "hotel",
+        "website": "https://www.superhotel.co.jp/",
+        "wikidata": "Q111866045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7363777,
+          35.6746723
+        ]
+      },
+      "id": "node/5136149301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5146218843",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "東京グリーンホテル後楽園",
+        "smoking": "isolated",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7527805,
+          35.7026691
+        ]
+      },
+      "id": "node/5146218843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5151558743",
+        "contact:phone": "+81 3 5816 6016",
+        "name": "ホテルドリーム",
+        "name:en": "Hotel Dream",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7756383,
+          35.7095725
+        ]
+      },
+      "id": "node/5151558743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166837221",
+        "name": "HOTEL SARDONYX TOKYO",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q111866136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7787928,
+          35.676691
+        ]
+      },
+      "id": "node/5166837221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166837226",
+        "name": "UNIZO INN",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7769764,
+          35.6753162
+        ]
+      },
+      "id": "node/5166837226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5173170596",
+        "name": "Hotel Grand City",
+        "source": "survey",
+        "tourism": "hotel",
+        "wikidata": "Q111865975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7162648,
+          35.7312485
+        ]
+      },
+      "id": "node/5173170596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5177482050",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "ホテルリブマックス後楽園",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7461978,
+          35.7107806
+        ]
+      },
+      "id": "node/5177482050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5214814022",
+        "addr:postcode": "102-0083",
+        "internet_access": "wlan",
+        "name": "ダイヤモンド ホテル",
+        "name:en": "Diamond Hotel",
+        "name:es": "Diamond Hotel",
+        "name:zh": "鑽石飯店",
+        "opening_hours": "24/7",
+        "phone": "03-3263-2211",
+        "tourism": "hotel",
+        "website": "https://www.diamond-hotel.co.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7425091,
+          35.6853545
+        ]
+      },
+      "id": "node/5214814022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5225644097",
+        "name": "エリートイン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7675122,
+          35.7066742
+        ]
+      },
+      "id": "node/5225644097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5246789876",
+        "name": "ホテル丸谷",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776,
+          35.7093924
+        ]
+      },
+      "id": "node/5246789876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5246789885",
+        "name": "ホテル丸谷アネックス",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7758126,
+          35.7096269
+        ]
+      },
+      "id": "node/5246789885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5250480589",
+        "name": "ホテルサンルート浅草",
+        "name:en": "Hotel Sunroute Asakusa",
+        "tourism": "hotel",
+        "wikidata": "Q111866082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.792015,
+          35.710669
+        ]
+      },
+      "id": "node/5250480589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5283753821",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7915885,
+          35.6863371
+        ]
+      },
+      "id": "node/5283753821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306076681",
+        "name": "ニューアオキ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7954393,
+          35.7231895
+        ]
+      },
+      "id": "node/5306076681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5306824569",
+        "name": "ベッセルイン上野入谷",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7861186,
+          35.7215131
+        ]
+      },
+      "id": "node/5306824569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5323152625",
+        "addr:postcode": "110-0006",
+        "addr:street": "2-1 akihabara",
+        "name": "Keikyu ex inn akihabara",
+        "name:ja": "京急EXイン",
+        "tourism": "hotel",
+        "wikidata": "Q112008880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7750295,
+          35.7018106
+        ]
+      },
+      "id": "node/5323152625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5390122385",
+        "addr:block_number": "1",
+        "addr:city": "千代田区",
+        "addr:housenumber": "2",
+        "addr:postcode": "102-8585",
+        "addr:province": "東京都",
+        "addr:quarter": "紀尾井町",
+        "internet_access": "yes",
+        "name": "ザ・プリンスギャラリー 東京紀尾井町",
+        "name:en": "The Prince Gallery Tokyo Kioicho",
+        "name:ja": "ザ・プリンスギャラリー 東京紀尾井町",
+        "name:zh": "東京紀尾井町王子畫廊豪華精選酒店",
+        "operator": "株式会社プリンスホテル",
+        "rooms": "250",
+        "tourism": "hotel",
+        "wikidata": "Q24874148",
+        "wikipedia": "ja:ザ・プリンスギャラリー 東京紀尾井町"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7369332,
+          35.6796228
+        ]
+      },
+      "id": "node/5390122385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5411177239",
+        "name": "Villa Fontaine",
+        "name:es": "Villa Fontaine",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7596448,
+          35.661863
+        ]
+      },
+      "id": "node/5411177239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5429415045",
+        "name": "ホテル リブマックス 日暮里",
+        "name:en": "Hotel Livemax Nippori",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7643663,
+          35.7254437
+        ]
+      },
+      "id": "node/5429415045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5430894330",
+        "name": "中田家",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7047457,
+          35.6885355
+        ]
+      },
+      "id": "node/5430894330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5430903022",
+        "name": "すえひろ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7047813,
+          35.6883781
+        ]
+      },
+      "id": "node/5430903022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5433556923",
+        "name": "Kakigara Hotel",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7832284,
+          35.6809187
+        ]
+      },
+      "id": "node/5433556923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5433556943",
+        "brand": "東横イン",
+        "name": "東横イン 日本橋人形町",
+        "name:en": "Toyoko Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7810362,
+          35.683361
+        ]
+      },
+      "id": "node/5433556943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5433556948",
+        "name": "Pearl Hotel パルホテル",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7827567,
+          35.6790273
+        ]
+      },
+      "id": "node/5433556948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444813474",
+        "name": "ホテル大番",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778619,
+          35.7116036
+        ]
+      },
+      "id": "node/5444813474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5479540845",
+        "name": "the b suidobashi",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.756557,
+          35.7051621
+        ]
+      },
+      "id": "node/5479540845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5559190032",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737736,
+          35.7346588
+        ]
+      },
+      "id": "node/5559190032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5564136320",
+        "name": "Hotel mentels",
+        "name:ja": "ホテル メンテルス 巣鴨",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7400585,
+          35.7326416
+        ]
+      },
+      "id": "node/5564136320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5564363181",
+        "amenity": "internet_cafe",
+        "name": "Net Room manboo",
+        "name:ja": "ネットルーム マンボー 巣鴨店",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7386623,
+          35.7323051
+        ]
+      },
+      "id": "node/5564363181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5564363187",
+        "name": "FLEXSTAY INN",
+        "name:ja": "フレックステイイン 巣鴨",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7347222,
+          35.7338417
+        ]
+      },
+      "id": "node/5564363187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5571704283",
+        "name": "HOTEL GRAPHY",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7687152,
+          35.7172125
+        ]
+      },
+      "id": "node/5571704283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5593429454",
+        "air_conditioning": "yes",
+        "name": "Candeo Hotel",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7326689,
+          35.6620942
+        ]
+      },
+      "id": "node/5593429454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5593590363",
+        "name": "HOTEL LUNGWOOD",
+        "name:en": "HOTEL LUNGWOOD",
+        "name:ja": "ホテル ラングウッド",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7732515,
+          35.7280579
+        ]
+      },
+      "id": "node/5593590363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5612624121",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.767256,
+          35.6906219
+        ]
+      },
+      "id": "node/5612624121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5619810100",
+        "name": "旅館 草分",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8140126,
+          35.6982908
+        ]
+      },
+      "id": "node/5619810100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5652926821",
+        "name:en": "Centurion Hotel Vintage",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7368445,
+          35.6755927
+        ]
+      },
+      "id": "node/5652926821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5653462421",
+        "check_date": "2023-09-26",
+        "name:en": "Centurion Hotel Vintage",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7367976,
+          35.675671
+        ]
+      },
+      "id": "node/5653462421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5680761261",
+        "name": "外苑ホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7170194,
+          35.6832927
+        ]
+      },
+      "id": "node/5680761261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5681657730",
+        "name": "日本青年館ホテル",
+        "name:en": "Nippon Seinenkan Hotel",
+        "name:es": "Hotel Nippón Séinenkan",
+        "phone": "+81-3-3401-0101",
+        "tourism": "hotel",
+        "website": "https://nippon-seinenkan.or.jp/",
+        "wikidata": "Q111866016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7155,
+          35.674
+        ]
+      },
+      "id": "node/5681657730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5743573170",
+        "brand": "The Ritz-Carlton",
+        "brand:wikidata": "Q782200",
+        "brand:wikipedia": "en:The Ritz-Carlton Hotel Company",
+        "diet:vegan": "no",
+        "name": "The Ritz-Carlton",
+        "phone": "+81 3-3423-8000",
+        "stars": "5",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q11306804",
+        "wikimedia_commons": "Category:Ritz-Carlton, Tokyo",
+        "wikipedia": "ja:ザ・リッツ・カールトン東京"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7313616,
+          35.666329
+        ]
+      },
+      "id": "node/5743573170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5753758847",
+        "name": "ホテル蔵前",
+        "name:en": "Hotel Kuramae",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7904789,
+          35.7039934
+        ]
+      },
+      "id": "node/5753758847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5787472799",
+        "addr:block_number": "4",
+        "addr:city": "台東区",
+        "addr:housenumber": "6",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "111-0043",
+        "addr:province": "東京都",
+        "addr:quarter": "駒形",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "name:zh": "APA飯店 淺草藏前",
+        "operator": "アパグループ株式会社",
+        "phone": "+81 3 5806-2111",
+        "rooms": "301",
+        "tourism": "hotel",
+        "website": "https://www.apahotel.com/hotel/shutoken/18_asakusa-kuramae/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7942202,
+          35.7057497
+        ]
+      },
+      "id": "node/5787472799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5787472800",
+        "addr:block_number": "3",
+        "addr:city": "台東区",
+        "addr:housenumber": "13",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "111-0043",
+        "addr:province": "東京都",
+        "addr:quarter": "駒形",
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "brand:wikipedia": "en:Toyoko Inn",
+        "name": "東横イン",
+        "name:en": "Toyoko Inn",
+        "name:ja": "東横イン",
+        "name:zh": "東橫INN 東京淺草藏前雷門",
+        "phone": "+81 3 3841-1045",
+        "tourism": "hotel",
+        "website": "https://www.toyoko-inn.com/search/detail/00015/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7939101,
+          35.7061575
+        ]
+      },
+      "id": "node/5787472800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5792840091",
+        "addr:block_number": "2",
+        "addr:city": "千代田区",
+        "addr:housenumber": "10",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "101-0047",
+        "addr:province": "東京都",
+        "addr:quarter": "内神田",
+        "internet_access": "wlan",
+        "internet_access:ssid": "coconekanda",
+        "name": "トーセイホテル ココネ神田",
+        "name:en": "Hotel Tosei Cocone Kanda",
+        "name:ja": "トーセイホテル ココネ神田",
+        "phone": "+81 3 5209 5541",
+        "smoking": "separated",
+        "stars": "3",
+        "start_date": "2017-12",
+        "swimming_pool": "no",
+        "tourism": "hotel",
+        "website": "https://tosei-hotel.co.jp/kanda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7690473,
+          35.6895171
+        ]
+      },
+      "id": "node/5792840091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807637069",
+        "diet:vegan": "yes",
+        "name": "Shangri-La",
+        "name:ja": "シャングリ・ラ ホテル",
+        "tourism": "hotel",
+        "website": "https://www.shangri-la.com/tokyo/shangrila/",
+        "wheelchair": "yes",
+        "wikidata": "Q7488584",
+        "wikimedia_commons": "Category:Shangri-La Hotel, Tokyo",
+        "wikipedia": "en:Shangri-La Hotel, Tokyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7691983,
+          35.6822284
+        ]
+      },
+      "id": "node/5807637069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5808307253",
+        "name": "Tokyu Stay Yotsuya",
+        "name:en": "Tokyu Stay Yotsuya",
+        "operator": "TOKYU STAY",
+        "tourism": "hotel",
+        "website": "https://www.tokyustay.co.jp/",
+        "wikidata": "Q111866009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7267915,
+          35.6864888
+        ]
+      },
+      "id": "node/5808307253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5825917523",
+        "name": "ＹＭＣＡアジア青少年センター",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7585352,
+          35.6999897
+        ]
+      },
+      "id": "node/5825917523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5860008576",
+        "name": "Hotel the b shimbashi",
+        "tourism": "hotel",
+        "website": "https://www.theb-hotels.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7535489,
+          35.6674936
+        ]
+      },
+      "id": "node/5860008576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5887930760",
+        "branch": "飯田橋駅前",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "internet_access": "wlan",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:es": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7482909,
+          35.700271
+        ]
+      },
+      "id": "node/5887930760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5908079065",
+        "name": "変なホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7847342,
+          35.6970306
+        ]
+      },
+      "id": "node/5908079065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5925563785",
+        "name": "星野リゾートOMO5 東京大塚",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7291466,
+          35.7329984
+        ]
+      },
+      "id": "node/5925563785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5926721086",
+        "name": "ホテルニュースター池袋",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7096479,
+          35.7349541
+        ]
+      },
+      "id": "node/5926721086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5929113020",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "check_date": "2023-02-28",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7374233,
+          35.6759528
+        ]
+      },
+      "id": "node/5929113020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5960534073",
+        "internet_access": "wired",
+        "internet_access:fee": "no",
+        "name": "Flexstay Inn Iidabashi",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "tourism": "hotel",
+        "website": "http://www.flexstay.jp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7424465,
+          35.705343
+        ]
+      },
+      "id": "node/5960534073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5963443165",
+        "name": "お茶ノ水ホテルジュラク",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7677666,
+          35.6983436
+        ]
+      },
+      "id": "node/5963443165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5987960985",
+        "addr:housenumber": "2-1-3",
+        "addr:postcode": "104-0031",
+        "addr:street": "鍛冶橋通り",
+        "name:en": "Courtyard Tokyo Station",
+        "name:es": "Courtyard Tokyo Station",
+        "phone": "+81-3-3516-9600",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7700848,
+          35.6778082
+        ]
+      },
+      "id": "node/5987960985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5993330285",
+        "name:en": "Apa Hotel Tawaramachi",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7901156,
+          35.7101309
+        ]
+      },
+      "id": "node/5993330285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5996679549",
+        "name": "銀座キャピタルホテル 別館",
+        "name:en": "Ginza Capital Hotel Annex",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7746535,
+          35.6694294
+        ]
+      },
+      "id": "node/5996679549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6003263385",
+        "name": "カプセルイン大塚",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7288024,
+          35.7324821
+        ]
+      },
+      "id": "node/6003263385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6003317685",
+        "name": "大塚ステーションホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7283408,
+          35.7327505
+        ]
+      },
+      "id": "node/6003317685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6007297903",
+        "addr:housenumber": "2-6-8",
+        "addr:street": "Komagata",
+        "name": "Asakusa Hotel Hatago",
+        "phone": "+81-3-6802-7277",
+        "tourism": "hotel",
+        "website": "https://www.asakusahotel.org/en/",
+        "wikidata": "Q111866097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7955657,
+          35.707601
+        ]
+      },
+      "id": "node/6007297903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6017675331",
+        "name": "大塚シティホテル",
+        "name:en": "Otsuka City Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.729826,
+          35.7303448
+        ]
+      },
+      "id": "node/6017675331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019264495",
+        "brand": "Mercure",
+        "brand:wikidata": "Q1709809",
+        "brand:wikipedia": "en:Mercure (hotel)",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "メルキュール東京銀座",
+        "name:en": "Mercure Tokyo Ginza",
+        "operator": "Mercure Hotel Ginza",
+        "stars": "4",
+        "tourism": "hotel",
+        "wikidata": "Q11344050",
+        "wikipedia": "ja:メルキュールホテル銀座東京"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7683573,
+          35.6727291
+        ]
+      },
+      "id": "node/6019264495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6044688587",
+        "name": "Airbnb",
+        "name:ja": "Airbnb",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7812939,
+          35.6970042
+        ]
+      },
+      "id": "node/6044688587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6051948185",
+        "name": "東横INN池袋北口1",
+        "name:en": "Higashiyoko INN Ikebukuro Kitaguchi 1",
+        "name:es": "Higashiyoko INN Ikebukuro Kitaguchi 1",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7109393,
+          35.73429
+        ]
+      },
+      "id": "node/6051948185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6058907282",
+        "name": "コンフォートホテル東京東神田",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7797258,
+          35.6945707
+        ]
+      },
+      "id": "node/6058907282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6059234799",
+        "name": "八重洲ターミナルホテル",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7711301,
+          35.6815494
+        ]
+      },
+      "id": "node/6059234799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6060911486",
+        "name": "丸越荘",
+        "name:en": "hanare ryokan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7650353,
+          35.7264758
+        ]
+      },
+      "id": "node/6060911486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068524332",
+        "name": "GRAND PARK INN",
+        "name:ja": "スパ＆カプセルホテル グランパーク・イン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7391408,
+          35.7323501
+        ]
+      },
+      "id": "node/6068524332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6126581831",
+        "name:en": "Hôtel Via Inn Iidabashi Korakuen",
+        "name:ja": "Hôtel ブィアイン飯田橋後楽園",
+        "operator": "JR西日本グループ",
+        "tourism": "hotel",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7434104,
+          35.7058233
+        ]
+      },
+      "id": "node/6126581831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6165063121",
+        "brand": "ドーミーイン",
+        "name": "doemy inn premium",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7781927,
+          35.690314
+        ]
+      },
+      "id": "node/6165063121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6187880802",
+        "email": "reservation-tokyo@gate-hotel.jp",
+        "name": "ザ・ゲートホテル東京 by HULIC",
+        "name:es": "The Gate Hotel Tokyo by Hulic",
+        "phone": "+81 3 6263 8233",
+        "smoking": "isolated",
+        "tourism": "hotel",
+        "website": "https://www.gate-hotel.jp/",
+        "wikidata": "Q111866111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.761793,
+          35.6729688
+        ]
+      },
+      "id": "node/6187880802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6220387369",
+        "name": "Hotel Ann Asakusa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7904819,
+          35.7128062
+        ]
+      },
+      "id": "node/6220387369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6229431664",
+        "name": "江戸駒",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7482042,
+          35.7365236
+        ]
+      },
+      "id": "node/6229431664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6267626189",
+        "name": "buc",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7787117,
+          35.6586491
+        ]
+      },
+      "id": "node/6267626189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6277441589",
+        "addr:block_number": "1",
+        "addr:city": "豊島区",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "3丁目",
+        "addr:postcode": "170-8440",
+        "addr:province": "東京都",
+        "addr:suburb": "豊島区",
+        "name": "サンシャインシティプリンスホテル",
+        "name:en": "Sunshine City Prince Hotel",
+        "name:es": "Sunshine City Prince Hotel",
+        "phone": "+81 3 39881111",
+        "tourism": "hotel",
+        "website": "https://www.princehotels.com/sunshine/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7193911,
+          35.7295368
+        ]
+      },
+      "id": "node/6277441589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6390083432",
+        "name": "Super Hotel Tokyo Otsuka",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7282822,
+          35.733445
+        ]
+      },
+      "id": "node/6390083432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6390211886",
+        "name": "ホテルアーバン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7075247,
+          35.7305308
+        ]
+      },
+      "id": "node/6390211886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6399950736",
+        "internet_access": "yes",
+        "name": "Ai Hotel Nihonbashi",
+        "source": "survey",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7816142,
+          35.6896137
+        ]
+      },
+      "id": "node/6399950736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400060030",
+        "name": "Richmond Premier Tokyo Oshiage ",
+        "tourism": "hotel",
+        "wikidata": "Q111406711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8137992,
+          35.7106062
+        ]
+      },
+      "id": "node/6400060030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6402047294",
+        "name:en": "APA Hotel Pride Kokkaigijidomae (correct location)",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7412463,
+          35.6745971
+        ]
+      },
+      "id": "node/6402047294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6407687561",
+        "name": "ICI HOTEL",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7732681,
+          35.690671
+        ]
+      },
+      "id": "node/6407687561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6483092085",
+        "addr:block_number": "11",
+        "addr:city": "千代田区",
+        "addr:housenumber": "35",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "100-0014",
+        "addr:province": "東京都",
+        "addr:quarter": "永田町",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "全国町村会館",
+        "name:en": "Zenkoku Chosonkaikan Hotel",
+        "name:ja": "全国町村会館",
+        "name:ja-Hira": "ぜんこくちょうそんかいかん",
+        "name:ja-Latn": "Zenkoku Chosonkaikan",
+        "phone": "+81 3 3581 0471",
+        "smoking": "separated",
+        "tourism": "hotel",
+        "website": "http://www.zck.or.jp/kaikan/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7415528,
+          35.6788111
+        ]
+      },
+      "id": "node/6483092085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6515119589",
+        "name": "入谷ステーションホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7859724,
+          35.7213045
+        ]
+      },
+      "id": "node/6515119589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6535384408",
+        "addr:block_number": "7",
+        "addr:city": "千代田区",
+        "addr:housenumber": "12",
+        "addr:neighbourhood": "1",
+        "addr:postcode": "100-0005",
+        "addr:province": "東京都",
+        "addr:quarter": "丸の内",
+        "name": "ホテルメトロポリタン丸の内",
+        "name:en": "Hotel Metropolitan Marunouchi",
+        "name:es": "Hotel Metropolitan Marunouchi",
+        "name:ja": "ホテルメトロポリタン丸の内",
+        "name:ru": "Отель Метрополитан Маруноути",
+        "tourism": "hotel",
+        "website": "https://www.hotelmetropolitanmarunouchi.jp/",
+        "wikidata": "Q11337902",
+        "wikipedia": "ja:ホテルメトロポリタン丸の内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7684989,
+          35.6837551
+        ]
+      },
+      "id": "node/6535384408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6535574042",
+        "name": "ホテルマイスデイズ東池袋",
+        "name:en": "HOTEL MYSTAYS Higashi-Ikebukuro",
+        "source": "survey",
+        "tourism": "hotel",
+        "wikidata": "Q111865980"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7239226,
+          35.7294544
+        ]
+      },
+      "id": "node/6535574042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6569781985",
+        "brand": "東横イン",
+        "brand:en": "Toyoko Inn",
+        "brand:ja": "東横イン",
+        "brand:wikidata": "Q1320541",
+        "brand:wikipedia": "en:Toyoko Inn",
+        "name": "東横イン",
+        "name:en": "Toyoko Inn",
+        "name:ja": "東横イン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766845,
+          35.6902141
+        ]
+      },
+      "id": "node/6569781985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6594765785",
+        "name": "Yuen Shinjuku Onsen Ryokan",
+        "name:en": "Onsen Ryokan Yuen Shinjuku Hotel",
+        "tourism": "hotel",
+        "wikidata": "Q111865995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7111605,
+          35.6930908
+        ]
+      },
+      "id": "node/6594765785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6601192885",
+        "internet_access": "wlan",
+        "level": "7",
+        "name": "Hotel Ginza 7",
+        "phone": "+81 3 6278 8882",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7648503,
+          35.6674308
+        ]
+      },
+      "id": "node/6601192885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6679929860",
+        "name": "ビジネスホテル松島",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7971569,
+          35.7317005
+        ]
+      },
+      "id": "node/6679929860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6679929869",
+        "name": "ビジネスホテル福千",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7972951,
+          35.7318038
+        ]
+      },
+      "id": "node/6679929869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6683223885",
+        "name:es": "Olympic Inn Kanda",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7742225,
+          35.6934946
+        ]
+      },
+      "id": "node/6683223885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6762753261",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hotel Abest Meguro",
+        "name:en": "Hotel Abest Meguro",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7146364,
+          35.6341588
+        ]
+      },
+      "id": "node/6762753261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6762807309",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Tosei Hotel Cocone",
+        "name:en": "Tosei Hotel Cocone",
+        "tourism": "hotel",
+        "website": "https://tosei-hotel.co.jp/ueno/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7768674,
+          35.7100465
+        ]
+      },
+      "id": "node/6762807309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6784533889",
+        "name:en": "The Blossom Hibiya",
+        "tourism": "hotel",
+        "wikidata": "Q112008917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7564769,
+          35.6690591
+        ]
+      },
+      "id": "node/6784533889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853136038",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "name": "APA Hotel Asakusa Kaminarimon",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7952381,
+          35.7100376
+        ]
+      },
+      "id": "node/6853136038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6894610236",
+        "name": "Pearl Hotels",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7208752,
+          35.694267
+        ]
+      },
+      "id": "node/6894610236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961334017",
+        "name": "Hotel New Tohoku",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7790736,
+          35.7105864
+        ]
+      },
+      "id": "node/6961334017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7046606986",
+        "name": "Trop beau",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7114302,
+          35.6322509
+        ]
+      },
+      "id": "node/7046606986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073974671",
+        "name": "ホテル龍名館東京",
+        "tourism": "hotel",
+        "wheelchair": "yes",
+        "wikidata": "Q11337961",
+        "wikimedia_commons": "Category:Hotel Ryumeikan",
+        "wikipedia": "ja:ホテル龍名館東京"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7710629,
+          35.6830857
+        ]
+      },
+      "id": "node/7073974671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7088579880",
+        "name": "京王プレッソイン 浜松町",
+        "name:en": "Keio Presso Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7528717,
+          35.6592359
+        ]
+      },
+      "id": "node/7088579880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7105604811",
+        "name": "TOKYO CITY VIEW HOTEL TABATA STATION",
+        "name:en": "Tokyo City View Hotel Tabata St.",
+        "name:ja": "東京シティビューホテル田端ステーション",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7628998,
+          35.7360183
+        ]
+      },
+      "id": "node/7105604811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7165641063",
+        "name": "Cozy Hotel Asakusa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7930468,
+          35.7181774
+        ]
+      },
+      "id": "node/7165641063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7205031475",
+        "name": "Hotel Wing International 池袋",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7186223,
+          35.7321819
+        ]
+      },
+      "id": "node/7205031475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7653531950",
+        "addr:block_number": "6",
+        "addr:city": "台東区",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "2丁目",
+        "addr:postcode": "111-0032",
+        "addr:province": "東京都",
+        "addr:quarter": "浅草",
+        "brand": "リッチモンドホテル",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Richmond Hotel Premier Asakusa",
+        "name:ja": "リッチモンドホテルプレミア浅草",
+        "rooms": "270",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7939917,
+          35.7141094
+        ]
+      },
+      "id": "node/7653531950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7850608237",
+        "name": "The Aoyama Grand Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7158179,
+          35.6694314
+        ]
+      },
+      "id": "node/7850608237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7850608239",
+        "name": "Albida Hotel Aoyama",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7165617,
+          35.6684648
+        ]
+      },
+      "id": "node/7850608239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7984945989",
+        "addr:block_number": "6",
+        "addr:city": "台東区",
+        "addr:housenumber": "11",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "111-0032",
+        "addr:province": "東京都",
+        "addr:quarter": "浅草",
+        "brand": "RED PLANET",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Red Planet Tokyo Asakusa",
+        "name:ja": "レッドプラネット 東京 浅草",
+        "tourism": "hotel",
+        "wikidata": "Q111121681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7923374,
+          35.7122268
+        ]
+      },
+      "id": "node/7984945989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8661370213",
+        "name": "ホテルトラスティ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7874122,
+          35.6871909
+        ]
+      },
+      "id": "node/8661370213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8829075649",
+        "amenity": "love_hotel",
+        "name": "ホテル・ティファナ・イン",
+        "name:en": "Hotel Tijuana Inn",
+        "source": "Bing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7162622,
+          35.7289949
+        ]
+      },
+      "id": "node/8829075649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8829075874",
+        "branch": "Ikebukuro",
+        "name": "Centurion Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7145409,
+          35.7320383
+        ]
+      },
+      "id": "node/8829075874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8829084229",
+        "amenity": "love_hotel",
+        "name": "パークサイドホテル",
+        "name:en": "Hotel Park Side",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7150445,
+          35.7312795
+        ]
+      },
+      "id": "node/8829084229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8829169310",
+        "name": "Hotel Wing",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7173364,
+          35.7325026
+        ]
+      },
+      "id": "node/8829169310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8829246418",
+        "addr:block_number": "5",
+        "addr:housenumber": "5",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "170-0013",
+        "addr:province": "東京都",
+        "addr:street": "東池袋",
+        "addr:suburb": "豊島区",
+        "name": "Hotel Route-Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7170743,
+          35.7312354
+        ]
+      },
+      "id": "node/8829246418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8989155338",
+        "amenity": "love_hotel",
+        "name": "ホテル・チョコレート",
+        "name:en": "HOTEL CHOCOLAT",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7142613,
+          35.7329631
+        ]
+      },
+      "id": "node/8989155338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8989155339",
+        "amenity": "love_hotel",
+        "name": "ホテル・ファースト",
+        "name:en": "HOTEL FIRST",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7144135,
+          35.7329664
+        ]
+      },
+      "id": "node/8989155339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8989245905",
+        "name": "ホテルベルクラシック東京",
+        "name:en": "Hotel Bellclassic Tokyo",
+        "name:ja": "ホテルベルクラシック東京",
+        "tourism": "hotel",
+        "website": "https://hotel-bellclassic.co.jp/",
+        "wikidata": "Q111865981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7274169,
+          35.7315958
+        ]
+      },
+      "id": "node/8989245905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9134817631",
+        "name": "Tobu Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7973361,
+          35.7113952
+        ]
+      },
+      "id": "node/9134817631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9141188929",
+        "name": "リーガロイヤルホテル",
+        "name:en": "Rihga Royal Hotel",
+        "name:es": "Rihga Royal Hotel",
+        "source": "survey;Bing, 2007-04",
+        "tourism": "hotel",
+        "website": "https://www.rihga.co.jp/",
+        "wikidata": "Q11348723",
+        "wikipedia": "ja:リーガロイヤルホテル"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7224125,
+          35.7103369
+        ]
+      },
+      "id": "node/9141188929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9161395278",
+        "name": "ニューセントラルホテル",
+        "name:en": "New Central Hotel",
+        "source": "survey",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7692269,
+          35.6935462
+        ]
+      },
+      "id": "node/9161395278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175653964",
+        "check_date": "2023-01-08",
+        "name": "サンパレス",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7983332,
+          35.7308198
+        ]
+      },
+      "id": "node/9175653964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175668268",
+        "name": "喜久屋",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7998866,
+          35.7291872
+        ]
+      },
+      "id": "node/9175668268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175714702",
+        "name": "ビジネスホテル 都",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7965677,
+          35.729746
+        ]
+      },
+      "id": "node/9175714702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175714703",
+        "name": "ニューホテル 南千住",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7963214,
+          35.730419
+        ]
+      },
+      "id": "node/9175714703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175714704",
+        "name": "かしわ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7961418,
+          35.730427
+        ]
+      },
+      "id": "node/9175714704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175778058",
+        "name": "あかぎ荘",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7989973,
+          35.7284656
+        ]
+      },
+      "id": "node/9175778058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175778059",
+        "name": "旅館 登喜和",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7993337,
+          35.7281202
+        ]
+      },
+      "id": "node/9175778059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175789398",
+        "check_date": "2023-01-08",
+        "name": "Hotel Hikari",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7999354,
+          35.7286541
+        ]
+      },
+      "id": "node/9175789398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175797825",
+        "name": "エデン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.798364,
+          35.730105
+        ]
+      },
+      "id": "node/9175797825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175802745",
+        "check_date": "2023-01-08",
+        "name": "ニューかど家",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7995689,
+          35.7282932
+        ]
+      },
+      "id": "node/9175802745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175802746",
+        "name": "パレスハウス",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7999489,
+          35.7283904
+        ]
+      },
+      "id": "node/9175802746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175802748",
+        "check_date": "2023-01-08",
+        "name": "ホテル 浅草会館",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7995117,
+          35.7283799
+        ]
+      },
+      "id": "node/9175802748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175834318",
+        "name": "武蔵ホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7970906,
+          35.7246026
+        ]
+      },
+      "id": "node/9175834318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175919905",
+        "check_date": "2023-01-08",
+        "name": "ビジネスホテル 谷屋",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8003225,
+          35.7267329
+        ]
+      },
+      "id": "node/9175919905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175919908",
+        "name": "ビジネスホテル 埼玉屋",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8003371,
+          35.7260816
+        ]
+      },
+      "id": "node/9175919908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175919914",
+        "name": "ビジネスホテル 楽陽",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8008739,
+          35.7256956
+        ]
+      },
+      "id": "node/9175919914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175931405",
+        "check_date": "2023-01-08",
+        "name": "Hotel 丸忠 Centro",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7990579,
+          35.7305181
+        ]
+      },
+      "id": "node/9175931405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175931406",
+        "check_date": "2023-01-08",
+        "name": "And Hotel Minami Senju",
+        "tourism": "hotel",
+        "wikidata": "Q111121650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7992505,
+          35.7300605
+        ]
+      },
+      "id": "node/9175931406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175936545",
+        "name": "Hotelアクセラ",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7998678,
+          35.727686
+        ]
+      },
+      "id": "node/9175936545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175941550",
+        "check_date": "2023-01-08",
+        "name": "旅館 田村屋本店",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8003249,
+          35.7277385
+        ]
+      },
+      "id": "node/9175941550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175941551",
+        "check_date": "2023-01-08",
+        "name": "よねや",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8006335,
+          35.7270532
+        ]
+      },
+      "id": "node/9175941551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175941552",
+        "check_date": "2023-01-08",
+        "name": "ニューホテル 大坂",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8005449,
+          35.7272731
+        ]
+      },
+      "id": "node/9175941552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175941553",
+        "check_date": "2023-01-08",
+        "name": "ほていや",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8002879,
+          35.7268335
+        ]
+      },
+      "id": "node/9175941553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175941557",
+        "check_date": "2023-01-08",
+        "name": "旅館 紀伊國屋",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8005838,
+          35.727166
+        ]
+      },
+      "id": "node/9175941557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9175941558",
+        "check_date": "2023-01-08",
+        "name": "ビジネスホテル 紅陽",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8003658,
+          35.7276509
+        ]
+      },
+      "id": "node/9175941558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9189116580",
+        "name": "CENTUTION HOTEL Vintage",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7367468,
+          35.6757674
+        ]
+      },
+      "id": "node/9189116580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9208797433",
+        "name": "Siesta Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7799087,
+          35.7033984
+        ]
+      },
+      "id": "node/9208797433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9657072717",
+        "addr:housenumber": "6-6-7",
+        "addr:postcode": "104-0061",
+        "addr:street": "Ginza",
+        "brand": "Hyatt Centric",
+        "brand:wikidata": "Q109277705",
+        "name": "Hyatt Centric",
+        "name:en": "Hyatt Centric",
+        "phone": "+810368371234",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762246,
+          35.670793
+        ]
+      },
+      "id": "node/9657072717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9710354397",
+        "name": "Hotel Comfact",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.781882,
+          35.7180863
+        ]
+      },
+      "id": "node/9710354397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9737781219",
+        "name": "目黒ホリックホテル",
+        "tourism": "hotel",
+        "website": "https://www.holichotel.jp/meguro/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7139703,
+          35.6348404
+        ]
+      },
+      "id": "node/9737781219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9737781239",
+        "name": "ホテル雅叙園東京",
+        "name:en": "Hotel Gajoen Tokyo",
+        "tourism": "hotel",
+        "website": "https://www.hotelgajoen-tokyo.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7142506,
+          35.6305534
+        ]
+      },
+      "id": "node/9737781239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810158405",
+        "name": "Hotel Live Max",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7952909,
+          35.7072371
+        ]
+      },
+      "id": "node/9810158405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810160836",
+        "name": "Mid In Hotels",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7902556,
+          35.70291
+        ]
+      },
+      "id": "node/9810160836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810223292",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.782412,
+          35.6930864
+        ]
+      },
+      "id": "node/9810223292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810247119",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "brand:wikipedia": "ja:アパグループ",
+        "name": "アパホテル",
+        "name:en": "APA Hotel Nihonbashi Bakurocho-eki Kita",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7812733,
+          35.6937088
+        ]
+      },
+      "id": "node/9810247119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9823060217",
+        "addr:housenumber": "2-17-54",
+        "addr:postcode": "107-0052",
+        "addr:street": "赤坂",
+        "internet_access": "wlan",
+        "name": "ホテルマイステイズプレミアム赤坂",
+        "name:en": "Hotel Mystays Premier Akasaka",
+        "opening_hours": "24/7",
+        "phone": "+81-3-6229-3280",
+        "tourism": "hotel",
+        "website": "https://www.mystays.com/en-us/hotel-mystays-premier-akasaka-tokyo/",
+        "wikidata": "Q111866069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7384539,
+          35.6702074
+        ]
+      },
+      "id": "node/9823060217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9861605125",
+        "name": "Rakuten STAY 東京浅草",
+        "tourism": "hotel",
+        "website": "https://stay.rakuten.co.jp/tokyo-asakusa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8033514,
+          35.7102925
+        ]
+      },
+      "id": "node/9861605125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9886475317",
+        "check_date": "2023-01-12",
+        "email": "akasaka-mitsuke@theb-hotels.com",
+        "internet_access": "wlan",
+        "name:en": "The B Akasaka Mitsuke",
+        "tourism": "hotel",
+        "website": "https://www.theb-hotels.com/theb/akasaka-mitsuke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7361017,
+          35.6765662
+        ]
+      },
+      "id": "node/9886475317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950550101",
+        "name": "ヴィアイン 日本橋人形町",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7801457,
+          35.6851559
+        ]
+      },
+      "id": "node/9950550101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9971740449",
+        "addr:block_number": "3",
+        "addr:city": "中央区",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "3丁目",
+        "addr:postcode": "103-0027",
+        "addr:province": "東京都",
+        "addr:quarter": "日本橋",
+        "brand": "ホテルモントレグループ",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "ホテルモンテエルマーナ東京",
+        "phone": "+3 3274 7111",
+        "rooms": "150",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7709204,
+          35.6801763
+        ]
+      },
+      "id": "node/9971740449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10020558317",
+        "name": "ホテルウィングインターナショナル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7543336,
+          35.6607951
+        ]
+      },
+      "id": "node/10020558317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10158245568",
+        "name": "なごみホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7788621,
+          35.7323408
+        ]
+      },
+      "id": "node/10158245568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225282430",
+        "addr:block_number": "9-1",
+        "addr:city": "千代田区",
+        "addr:neighbourhood": "一丁目",
+        "addr:postcode": "100-0004",
+        "addr:province": "東京都",
+        "addr:quarter": "大手町",
+        "brand": "星野リゾート",
+        "name": "星のや東京",
+        "name:en": "HOSHINOYA Tokyo",
+        "phone": "03-6214-5151",
+        "tourism": "hotel",
+        "website": "https://hoshinoya.com/tokyo/",
+        "wikidata": "Q111406696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7650151,
+          35.6877173
+        ]
+      },
+      "id": "node/10225282430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10225323486",
+        "addr:block_number": "3-1",
+        "addr:city": "港区",
+        "addr:neighbourhood": "4丁目",
+        "addr:postcode": "107-0052",
+        "addr:province": "東京都",
+        "addr:quarter": "赤坂",
+        "brand": "星野リゾート",
+        "check_date": "2023-08-01",
+        "name": "OMO3 Hoshino Resorts",
+        "tourism": "hotel",
+        "website": "https://hoshinoresorts.com/ja/hotels/omo3tokyoakasaka/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7359441,
+          35.6750017
+        ]
+      },
+      "id": "node/10225323486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10269997783",
+        "addr:city": "渋谷区",
+        "addr:full": "〒150-0011 東京都渋谷区東１丁目２９−3",
+        "addr:postcode": "150-0011",
+        "addr:province": "東京都",
+        "addr:suburb": "渋谷区",
+        "brand": "Mustard Hotel",
+        "name": "Mustard Hotel Shibuya",
+        "note": "場所は、SHIBUYA BRIDGE B。",
+        "note:en": "Located in SHIBUYA BRIDGE B.",
+        "phone": "+81364592842",
+        "tourism": "hotel",
+        "website": "https://mustardhotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7071144,
+          35.6534922
+        ]
+      },
+      "id": "node/10269997783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270000350",
+        "addr:block_number": "4",
+        "addr:city": "千代田区",
+        "addr:county": "東京都",
+        "addr:full": "101-0041 東京都千代田区神田須田町1-4-7",
+        "addr:full:en": "1-4-7 Kandasudacho Chiyoda-Ku, Tokyo 101-0041",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "1丁目",
+        "addr:postcode": "101-0041",
+        "addr:province": "東京都",
+        "addr:quarter": "神田須田町",
+        "addr:suburb": "千代田区",
+        "brand": "Belken Hotel",
+        "email": "info-kanda@belkenhotel.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Belken Hotel Kanda",
+        "phone": "+81332541115",
+        "tourism": "hotel",
+        "website": "https://www.belkenhotel.com/belken_kanda/en/index.html",
+        "wikidata": "Q112008881"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7678631,
+          35.6947931
+        ]
+      },
+      "id": "node/10270000350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270014197",
+        "addr:city": "新宿区",
+        "addr:county": "新宿区",
+        "addr:full": "〒162-0844 東京都新宿区市谷八幡町８−番地 TKP市ヶ谷ビル 1階",
+        "addr:postcode": "162-0844",
+        "addr:province": "東京都",
+        "addr:suburb": "新宿区",
+        "brand": "First Cabin",
+        "internet_access": "yes",
+        "name": "ファーストキャビン市ヶ谷",
+        "name:en": "First Cabin Ichigaya",
+        "note": "カプセルホテル",
+        "note:en": "Capsule Hotel",
+        "phone": "+81 3 6457 5305",
+        "rooms": "165",
+        "tourism": "hotel",
+        "website": "https://first-cabin.jp/hotels/33"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7345609,
+          35.6922375
+        ]
+      },
+      "id": "node/10270014197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312283848",
+        "name": "the b ikebukuro",
+        "operator": "Ishin Hotels",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71426,
+          35.7322708
+        ]
+      },
+      "id": "node/10312283848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312283887",
+        "branch": "池袋",
+        "branch:en": "Ikebukuro",
+        "branch:ja": "池袋",
+        "name": "第一イン",
+        "name:en": "Dai-Ichi In",
+        "name:ja": "第一イン",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7128163,
+          35.7320481
+        ]
+      },
+      "id": "node/10312283887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312284231",
+        "name": "池袋セントラルホテル",
+        "name:en": "Ikebukuro Central Hotel",
+        "name:ja": "池袋セントラルホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7134902,
+          35.7323818
+        ]
+      },
+      "id": "node/10312284231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10312284357",
+        "name": "Daiwa Roynet Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7128585,
+          35.7283243
+        ]
+      },
+      "id": "node/10312284357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10314104629",
+        "check_date": "2023-01-08",
+        "name": "スーパーホテル",
+        "name:ja": "スーパーホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7982111,
+          35.7150102
+        ]
+      },
+      "id": "node/10314104629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10314143224",
+        "check_date": "2023-01-08",
+        "name": "ホテルトレンド",
+        "name:en": "Hotel Trend",
+        "name:ja": "ホテルトレンド",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7982804,
+          35.7136104
+        ]
+      },
+      "id": "node/10314143224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10554040880",
+        "name": "Sakura Cross Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7737303,
+          35.6958357
+        ]
+      },
+      "id": "node/10554040880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677788305",
+        "internet_access": "wlan",
+        "name:en": "Nest Hotel Tokyo Hanzomon",
+        "tourism": "hotel",
+        "wikidata": "Q111866033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7419646,
+          35.6833035
+        ]
+      },
+      "id": "node/10677788305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734345319",
+        "name": "ホテルカワセ",
+        "name:en": "HOTEL KAWASE",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7971667,
+          35.7103759
+        ]
+      },
+      "id": "node/10734345319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734406424",
+        "name": "ホテルトレンド浅草",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7930576,
+          35.7120936
+        ]
+      },
+      "id": "node/10734406424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763255607",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "レムプラス銀座",
+        "name:en": "Remm+",
+        "phone": "+81 3 6866 0606",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7626017,
+          35.6674717
+        ]
+      },
+      "id": "node/10763255607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10769881105",
+        "name:en": "Hotel Avyss",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70593,
+          35.6949525
+        ]
+      },
+      "id": "node/10769881105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10769888805",
+        "name:en": "Hotel Pasela Living",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7075282,
+          35.6966477
+        ]
+      },
+      "id": "node/10769888805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10774389832",
+        "name": "Hotel Hillarys",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7378397,
+          35.6735669
+        ]
+      },
+      "id": "node/10774389832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10802632623",
+        "name": "Dormy Inn Korakuen",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7534275,
+          35.710127
+        ]
+      },
+      "id": "node/10802632623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10806201959",
+        "name": "HOTEL 3000",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7937955,
+          35.7124582
+        ]
+      },
+      "id": "node/10806201959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10806528652",
+        "name": "浅草セントラルホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7942568,
+          35.7113643
+        ]
+      },
+      "id": "node/10806528652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10824036954",
+        "check_date": "2023-04-19",
+        "name": "HOTEL REX",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7377731,
+          35.6728498
+        ]
+      },
+      "id": "node/10824036954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10829871751",
+        "name": "ブルガリホテル東京",
+        "name:en": "Bulgari Hotel Tokyo",
+        "tourism": "hotel",
+        "website": "https://www.bulgarihotels.com/ja_JP/tokyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7691006,
+          35.67891
+        ]
+      },
+      "id": "node/10829871751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10839383259",
+        "addr:housenumber": "19-10",
+        "addr:street": "赤坂三丁目",
+        "check_date": "2023-04-25",
+        "name": "アパヴィラホテル",
+        "name:en": "APA VILLA HOTEL AKASAKA-MITSUKE",
+        "phone": "+81335825111",
+        "tourism": "hotel",
+        "website": "https://www.apahotel.com/hotel/syutoken/tokyo/akasakamitsuke/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7360322,
+          35.6759941
+        ]
+      },
+      "id": "node/10839383259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10845981509",
+        "check_date": "2023-04-27",
+        "name": "Granbell Hotel Akasaka",
+        "name:ja": "赤坂グランベルホテル",
+        "tourism": "hotel",
+        "wikidata": "Q111866044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7371069,
+          35.6755742
+        ]
+      },
+      "id": "node/10845981509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10874402106",
+        "name": "KEIKYU EX INN",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7356305,
+          35.6289031
+        ]
+      },
+      "id": "node/10874402106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10875143954",
+        "fixme": "和名 (これらの翻訳が間違っている場合は申し訳ありません)",
+        "name": "Sakura Cross Hotel Shinjuku East",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7123102,
+          35.6979785
+        ]
+      },
+      "id": "node/10875143954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10875143956",
+        "name": "Sakura Cross Hotel Shinjuku East Annex",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711215,
+          35.6972203
+        ]
+      },
+      "id": "node/10875143956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10925483655",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "name": "アパホテル〈人形町駅東〉",
+        "name:en": "Apa Hotel Ningyocho Ekihigashi",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7841329,
+          35.6881284
+        ]
+      },
+      "id": "node/10925483655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10967903703",
+        "name": "ゆめまち",
+        "name:en": "Yumemachi",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8140165,
+          35.7063809
+        ]
+      },
+      "id": "node/10967903703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10968644505",
+        "name": "東橫イン",
+        "name:en": "Toyoko Inn",
+        "tourism": "hotel",
+        "website": "http://toyoko-inn.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711019,
+          35.7344615
+        ]
+      },
+      "id": "node/10968644505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11035735505",
+        "name:en": "Hotel Livemax Nihonbashi Koamicho",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7807182,
+          35.6825184
+        ]
+      },
+      "id": "node/11035735505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047734014",
+        "name": "SUPER HOTEL Premier",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7744849,
+          35.6966689
+        ]
+      },
+      "id": "node/11047734014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047734053",
+        "name": "HOTEL RESOL Stay",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.773286,
+          35.6964794
+        ]
+      },
+      "id": "node/11047734053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047734071",
+        "name": "FIRST CABIN",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7716887,
+          35.6966085
+        ]
+      },
+      "id": "node/11047734071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11047966898",
+        "brand": "アパホテル",
+        "brand:en": "APA Hotel",
+        "brand:ja": "アパホテル",
+        "brand:wikidata": "Q11284497",
+        "name": "Apa Hotel Ueno Eki Minami",
+        "name:en": "APA Hotel",
+        "name:ja": "アパホテル",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7761796,
+          35.7091296
+        ]
+      },
+      "id": "node/11047966898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11056285805",
+        "name": "ホテルマイステイズ神田",
+        "name:en": "Hotel Mystays Kanda",
+        "tourism": "hotel",
+        "wikidata": "Q111866094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7751799,
+          35.6914788
+        ]
+      },
+      "id": "node/11056285805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11060928475",
+        "check_date": "2023-07-22",
+        "name": "Hotel Keihan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7274329,
+          35.6868255
+        ]
+      },
+      "id": "node/11060928475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11064270305",
+        "addr:housenumber": "7-番2号",
+        "addr:postcode": "110-0005",
+        "addr:street": "上野六丁目",
+        "name": "ドーミーイン上野・御徒町",
+        "name:de": "Dormy Inn Ueno・Okachimachi",
+        "name:en": "Dormy Inn Ueno・Okachimachi",
+        "tourism": "hotel",
+        "website": "https://www.hotespa.net/dormyinn/english/",
+        "wikidata": "Q111866036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7761507,
+          35.7089862
+        ]
+      },
+      "id": "node/11064270305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11104513049",
+        "name": "ROCKS新宿",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7082117,
+          35.6898335
+        ]
+      },
+      "id": "node/11104513049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11158677924",
+        "check_date": "2023-08-31",
+        "name": "Centurion Hotel Residential",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7377114,
+          35.6737927
+        ]
+      },
+      "id": "node/11158677924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11195010837",
+        "internet_access": "wlan",
+        "name:en": "Lightning Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7920536,
+          35.7108093
+        ]
+      },
+      "id": "node/11195010837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11204195237",
+        "internet_access": "wlan",
+        "name:en": "Hiromas Hotel Kura",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7934509,
+          35.7048633
+        ]
+      },
+      "id": "node/11204195237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11219703457",
+        "check_date": "2023-09-26",
+        "name": "ヴィアイン赤坂",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7389819,
+          35.6725502
+        ]
+      },
+      "id": "node/11219703457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11234854568",
+        "name": "ヴィアイン新宿",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7074146,
+          35.6933261
+        ]
+      },
+      "id": "node/11234854568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11283473325",
+        "check_date": "2023-10-23",
+        "name": "LiveMAX",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7333841,
+          35.6701085
+        ]
+      },
+      "id": "node/11283473325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11289862316",
+        "name": "L stay＆grow 晴海",
+        "tourism": "hotel",
+        "website": "https://www.kensyu.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7795457,
+          35.6547686
+        ]
+      },
+      "id": "node/11289862316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11289926581",
+        "addr:block_number": "10",
+        "addr:city": "中央区",
+        "addr:housenumber": "4",
+        "addr:neighbourhood": "3",
+        "addr:postcode": "104-0045",
+        "addr:province": "東京都",
+        "addr:quarter": "築地",
+        "addr:suburb": "中央区",
+        "email": "info@ann-tsukiji.com",
+        "name": "ホテル庵築地",
+        "name:en": "Hotel Ann Tsukiji",
+        "name:ja": "ホテル庵築地",
+        "phone": "+81-3-6264-7763",
+        "tourism": "hotel",
+        "website": "https://www.ann-tsukiji.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7729685,
+          35.6676766
+        ]
+      },
+      "id": "node/11289926581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11294654769",
+        "addr:street": "130-0001 東京都墨田区吾妻橋２－１８－２",
+        "internet_access": "wlan",
+        "name": "つるや旅館",
+        "name:de": "Tsuruya Ryokan",
+        "name:en": "Tsuruya Ryokan",
+        "phone": "0081-3-3561-6889",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8022335,
+          35.7103109
+        ]
+      },
+      "id": "node/11294654769"
+    }
+  ]
+}
