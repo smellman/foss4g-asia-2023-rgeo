@@ -3,7 +3,13 @@ class ToiletsController < ApplicationController
 
   # GET /toilets
   def index
-    @toilets = Toilet.all
+    if params[:longitude] && params[:latitude] && params[:radius]
+      @toilets = Toilet.distance_sphere(
+        params[:longitude].to_f, params[:latitude].to_f, params[:radius].to_i
+      )
+    else
+      @toilets = Toilet.all
+    end
     geojson = {
       type: "FeatureCollection",
       features: @toilets.map(&:as_json)
