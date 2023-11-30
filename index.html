@@ -602,11 +602,10 @@ out;
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="49" data-footer="FOSS4G Asia 2023 Seoul" data-paginate="true" data-theme="default" lang="C" data-marpit-pagination="49" style="--footer:FOSS4G Asia 2023 Seoul;--paginate:true;--theme:default;" data-marpit-pagination-total="64">
 <h1 id="10-put-the-geojson-file-into-dbseed_data-directory">10. Put the GeoJSON file into <code>db/seed_data</code> directory.</h1>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-sh">
-- Put the GeoJSON file into `db/seed_data` directory.
-
-```sh
-<span class="hljs-built_in">mkdir</span> db/seed_data
+<ul>
+<li>Put the GeoJSON file into <code>db/seed_data</code> directory.</li>
+</ul>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-sh"><span class="hljs-built_in">mkdir</span> db/seed_data
 <span class="hljs-built_in">mv</span> ~/Downloads/export.geojson db/seed_data/toilets.geojson
 </code></pre>
 <footer>FOSS4G Asia 2023 Seoul</footer>
@@ -791,10 +790,10 @@ seed_toilets
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="62" data-footer="FOSS4G Asia 2023 Seoul" data-paginate="true" data-theme="default" lang="C" data-marpit-pagination="62" style="--footer:FOSS4G Asia 2023 Seoul;--paginate:true;--theme:default;" data-marpit-pagination-total="64">
 <p>Check output</p>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-sh"><span class="hljs-comment"># without params</span>
-❯ curl <span class="hljs-string">&quot;http://localhost:3000/toilets.json&quot;</span> | jq <span class="hljs-string">&#x27;.features | length&#x27;</span>
+❯ curl <span class="hljs-string">&quot;http://localhost:3000/toilets.geojson&quot;</span> | jq <span class="hljs-string">&#x27;.features | length&#x27;</span>
 662
 <span class="hljs-comment"># with params</span>
-❯ curl <span class="hljs-string">&quot;http://localhost:3000/toilets.json?latitude=35.677724&amp;longitude=139.76478f6&amp;radius=1000&quot;</span> | jq <span class="hljs-string">&#x27;.features | length&#x27;</span>
+❯ curl <span class="hljs-string">&quot;http://localhost:3000/toilets.geojson?latitude=35.677724&amp;longitude=139.76478f6&amp;radius=1000&quot;</span> | jq <span class="hljs-string">&#x27;.features | length&#x27;</span>
 31
 </code></pre>
 <footer>FOSS4G Asia 2023 Seoul</footer>
