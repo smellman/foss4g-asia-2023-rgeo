@@ -585,8 +585,6 @@ out;
 
 # 10. Put the GeoJSON file into `db/seed_data` directory.
 
-```sh
-
 - Put the GeoJSON file into `db/seed_data` directory.
 
 ```sh
@@ -804,10 +802,10 @@ Check output
 
 ```sh
 # without params
-❯ curl "http://localhost:3000/toilets.json" | jq '.features | length'
+❯ curl "http://localhost:3000/toilets.geojson" | jq '.features | length'
 662
 # with params
-❯ curl "http://localhost:3000/toilets.json?latitude=35.677724&longitude=139.76478f6&radius=1000" | jq '.features | length'
+❯ curl "http://localhost:3000/toilets.geojson?latitude=35.677724&longitude=139.76478f6&radius=1000" | jq '.features | length'
 31
 ```
 
